@@ -7,6 +7,8 @@ Send a customer an invite to appraise their own vehicle. The customer receives a
 * Have the customer's first name, last name and email address to hand.
 * Have the vehicle's registration number (VRM) or VIN.
 
+![](../../.gitbook/assets/WD05-1.png)
+
 ## Send an invite
 
 1. Click **Invite** in the sidebar.
@@ -28,7 +30,6 @@ Send a customer an invite to appraise their own vehicle. The customer receives a
 
 A confirmation appears. The customer receives an email within 60 seconds. The invite is valid for 48 hours by default.
 
-![](../../.gitbook/assets/WD05-1.png)
 
 {% hint style="info" %}
 If a vehicle lookup returns no data, check that you have entered the correct registration or VIN. You can still send the invite by entering vehicle details manually.
