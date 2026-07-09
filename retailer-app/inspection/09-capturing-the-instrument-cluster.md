@@ -1,6 +1,6 @@
 # Capturing the instrument cluster
 
-The instrument cluster image lets the app read the odometer, fuel level and warning lights. These values pre-fill the Instrument cluster readings pages of the checklist.
+The instrument cluster image lets the app read the dashboard values - the mileage or odometer reading and the warning lights, and on some setups the fuel level or charge. These values pre-fill the Instrument cluster readings pages of the checklist.
 
 ## Turn the ignition on
 
@@ -23,14 +23,14 @@ _Line the cluster up inside the frame, then capture the image._
 ## What the app reads
 
 * **Warning lights**
-* **Odometer** reading
-* **Fuel Level (%)**
+* **Mileage / odometer** reading
+* **Fuel level or charge** - on some setups
 
 After capture, these values pre-fill the **Instrument cluster readings** pages at the start of the checklist ([Completing the checklist](12-completing-the-checklist.md)), where you can edit them if needed.
 
 ![](../../.gitbook/assets/demo-r17.png)
 
-_The Warning lights page (1/3) pre-filled from the cluster image - here Handbrake and Seatbelt were detected._
+_The Warning lights page pre-filled from the cluster image - here Handbrake and Seatbelt were detected._
 
 {% hint style="info" %}
 If the dashboard is not clear enough, turn the ignition on again, clean the lens, and recapture.

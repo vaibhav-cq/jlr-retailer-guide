@@ -1,11 +1,13 @@
 # Keys, charging cable and other checks
 
-The **Other Checks** section of the checklist asks about extra items such as the keys and the charging cable. You answer these as questions and can attach an image to each one.
+## Photographing checklist items
 
-## Answer the item questions
+Some checklist questions ask about individual items, such as a key, a charger or a cable, and let you attach a photo as evidence. The exact items depend on your dealer setup.
+
+### Answer and photograph an item
 
 1. Complete image capture and open the checklist ([Completing the checklist](12-completing-the-checklist.md)).
-2. Work through the **Other Checks** pages. Between the first and last question, the checklist asks about items including the **keys** and the **charging cable**.
+2. Work through the condition questions. Some ask about specific items, for example the keys or a charger.
 3. Tap an option to answer each question.
 4. To evidence an item, tap the attach-image icon and photograph it.
 
