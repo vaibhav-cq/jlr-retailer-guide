@@ -51,6 +51,33 @@ _The Manual toggle sits top right - turn it on to capture yourself._
 The Manual toggle is always visible.
 {% endhint %}
 
+## If your overlay stays white
+
+On some setups the exterior flow is fully manual. You will know this is you if the **overlay stays white** (it never turns red or green) and there is **no Manual toggle** - you tap the shutter for every view.
+
+In this case:
+
+* The white overlay shows which part to frame, but it does not check quality or capture on its own.
+* You tap the **shutter** to capture each view.
+* The required-views list on the right and the figure on the left work exactly as above.
+* The counter may show a different total (for example **0/30**), because the set of required views can differ.
+
+\[Insert Image]
+
+_The fully manual screen: a white overlay, the required-views list on the right, and the shutter button. There is no Manual toggle._
+
+To capture:
+
+1. Stand back so the whole panel fits inside the overlay.
+2. Line the white overlay up with the matching part of the vehicle.
+3. Hold steady and frame the view as well as you can.
+4. Tap the **shutter** to capture.
+5. Move to the next position and repeat until all required views are captured.
+
+{% hint style="info" %}
+Because there is no green check, take a moment to confirm the panel is fully framed before you tap the shutter.
+{% endhint %}
+
 ## Retaking an image
 
 Select any image and capture it again, following the overlay.
