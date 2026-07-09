@@ -1,36 +1,40 @@
 # Completing the checklist
 
-After capture, complete the checklist. It opens with the cluster readings, then asks a short set of condition questions. Use **Next** (top right) to move between pages.
+After capture, complete the checklist. It opens with the instrument cluster readings, then asks a set of condition questions. The exact questions, section names and number of pages depend on your dealer setup, so your checklist may be shorter or longer than the examples shown here. Use **Next** (top right) to move between pages.
 
 ![](../../.gitbook/assets/demo-r17.png)
 
-## Instrument cluster readings \[1/3 - 3/3]
+## Instrument cluster readings
 
-The **Instrument cluster readings** pages pre-fill the values detected from the cluster image. Check and edit each, tapping **Next** to move on:
+The first pages pre-fill the values detected from the cluster image ([Capturing the instrument cluster](09-capturing-the-instrument-cluster.md)). Check and edit each one, then tap **Next**:
 
-* **Warning lights** - detected warning lights are pre-selected; edit the selection if required.
-* **Odometer reading**
-* **Fuel Level (%)**
+* **Warning lights** - detected lights are pre-selected; edit the selection if required.
+* **Mileage / odometer reading** - the reading from the dashboard.
+* **Fuel level or charge** - shown on some setups.
 
 ![](../../.gitbook/assets/demo-r18.png)
 
-_Odometer reading (2/3), pre-filled from the cluster image - edit it if needed._
+_Mileage /_ _Odometer reading, pre-filled from the cluster image - edit it if needed._
 
 ![](../../.gitbook/assets/demo-r19.png)
 
-_Fuel Level % (3/3), chosen from the dropdown._
+_Fuel Level % or Charge, chosen from the dropdown._
 
-## Other Checks \[1/7 - 7/7]
+## Condition questions
 
-The **Other Checks** pages ask the condition questions, for example "Any damages on your vehicle?" (No / Yes / Not sure) and questions about the keys, charging cable and locking wheel key.
+After the cluster readings, the checklist asks a set of condition questions. Depending on your setup this section may be called **Other Checks**, **Vehicle checks** or similar, and the questions vary. Examples include the overall condition of the vehicle, whether there is any damage, the number of keys, chargers or cables, fluid levels, the spare wheel, tools, and service information.
+
+For each question:
 
 1. Read each question.
-2. Tap an option to answer.
-3. Attach an image for extra context if needed.
+2. Answer it - tap an option, choose from a dropdown, or type a number.
+3. If a photo is needed, tap the camera icon and capture the item.
+
+Some answers open a follow-up question. For example, answering **Yes** to an item may then ask about its condition.
 
 ![](../../.gitbook/assets/demo-r20.png)
 
-_An Other Checks question. The red asterisk marks a mandatory question; the camera icon attaches an image for context._
+A condition question. The red asterisk marks a mandatory question; the camera icon attaches a photo.
 
 {% hint style="info" %}
 Mandatory questions are marked with a red asterisk. You cannot move past the checklist until all of them are answered.
