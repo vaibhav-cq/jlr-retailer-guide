@@ -40,7 +40,7 @@ For retailer staff carrying out vehicle inspections on a mobile device.
 {% endtab %}
 
 {% tab title="Web Dashboard" %}
-For retailer staff viewing reports, sending customer invites and managing users on a desktop browser at [https://jlr-uat.web.app](https://jlr-uat.web.app).
+For retailer staff viewing reports and sending customer invites on a desktop browser at [https://jlr-uat.web.app](https://jlr-uat.web.app).
 
 ### Getting started
 

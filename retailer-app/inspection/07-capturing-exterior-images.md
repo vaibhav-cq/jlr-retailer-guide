@@ -48,7 +48,7 @@ If an image is hard to capture, take it yourself:
 _The Manual toggle sits top right - turn it on to capture yourself._
 
 {% hint style="info" %}
-The Manual toggle is always visible.
+The Manual toggle is always visible. If a view stays red for a few seconds, the toggle glows to catch your attention - it is still off, and turning it on is your choice.
 {% endhint %}
 
 ## If your overlay stays white

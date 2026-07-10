@@ -25,7 +25,7 @@ _The home screen with a completed inspection card - a quick look at the app in u
 Some tasks happen on the web dashboard, not in the app. It is at [https://jlr-uat.web.app](https://jlr-uat.web.app), and you sign in with your app credentials. Use it to:
 
 * View reports in full.
-* Manage users.
+* Manage users (admin accounts only - not covered in this guide).
 * Invite customers to self-inspect.
 
 {% hint style="info" %}

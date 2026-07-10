@@ -15,10 +15,7 @@ The browser-based tool for retailer staff at [https://jlr-uat.web.app](https://j
 The ClearInspect app used by JLR customers to self-appraise their own vehicle. It is invite-only.
 
 **Invite**
-A secure link sent by a retailer to a customer, giving them access to begin their self-appraisal. Invites expire after 48 hours by default.
-
-**ForgeRock SSO**
-The JLR single sign-on system. This is planned as the long-term sign-in method for the web dashboard and the Retailer app but is not yet available. For now, the web dashboard uses email, password and an email OTP, and the Retailer app uses a User ID and password.
+A secure link sent by a retailer to a customer, giving them access to begin their self-appraisal. Invites usually expire after 48 hours; the exact validity depends on your retailer setup.
 
 **OTP (one-time passcode)**
 A short numeric code sent to your email to confirm your identity when signing in to the web dashboard.
@@ -30,7 +27,7 @@ The terms you accept in a pop-up the first time you sign in to the Retailer app 
 The step-by-step image capture process in the Retailer app. The app shows you which part of the vehicle to photograph next.
 
 **Overlay**
-The on-screen outline that shows how to frame each photo. It turns green when the framing is correct.
+The on-screen outline that shows how to frame each photo. It turns green when the framing is correct. On some setups the overlay stays white and you capture every view yourself with the shutter.
 
 **Real-time checks**
 Live checks that confirm the correct part is in frame and the image is clear before it is captured.
@@ -51,7 +48,7 @@ The dashboard display behind the steering wheel. ClearInspect reads the odometer
 The set of questions completed during an inspection. Some answers are pre-filled from detected values.
 
 **Damage / damage review (Damage Confirmation)**
-The stage where you review the damage the app has detected, and add, edit or confirm it. The overview legend marks each section as Clean, Damages or Unrecognized; the tyre view uses Clean, Mismatch/Damages and Not available.
+The stage where you review the damage the app has detected, and add, edit or confirm it. The overview legend marks each section as Clean, Damages (or Existing Damages when vehicle comparison is enabled) or Unrecognized; the tyre view uses Clean, Mismatch/Damages and Not available.
 
 **Repair method**
 How a damage will be fixed: Repair, Repaint, Smart Repair, Polish or Replace.
@@ -81,13 +78,13 @@ The manufacturer's recommended tyre specification. A mismatch means a tyre does 
 The wheel itself, as opposed to the tyre. Alloy damage is recorded in the tyre section.
 
 **VIN**
-Vehicle Identification Number, the unique 17-character identifier for a vehicle. Used for JLR Topix lookups.
+Vehicle Identification Number, the unique 17-character identifier for a vehicle. Used to retrieve JLR vehicle data.
 
 **VRM**
 Vehicle Registration Mark. The number plate number used to look up vehicle data.
 
-**Topix**
-The JLR internal system that provides vehicle data by VIN, including service history, recalls and optional extras. Data is retrieved automatically during the inspection.
+**JLR vehicle data (JLR API Integration)**
+Extra data shown for JLR vehicles, retrieved automatically during the inspection using the VIN: service history, recalls, optional extras and engine details. It appears in the report under **JLR API Integration**.
 
 **Sign-off**
 Confirming and completing an inspection at the end of the process.

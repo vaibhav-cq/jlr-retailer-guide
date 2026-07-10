@@ -1,6 +1,6 @@
 # Reviewing damage
 
-After the checklist comes damage review (Damage Confirmation, or DC). The app has already detected damage from your images. Review what it found, accept it, correct it, and add anything it missed.
+After the checklist comes damage review - the app calls this **Damage Confirmation**. The app has already detected damage from your images. Review what it found, accept it, correct it, and add anything it missed.
 
 ![](../../.gitbook/assets/demo-r22.png)
 
@@ -9,7 +9,7 @@ After the checklist comes damage review (Damage Confirmation, or DC). The app ha
 The **Overview** screen shows the damage status of each section of the vehicle. Tabs switch between **Exterior**, **Tyre** and **Interior**. The legend reads:
 
 * **Clean:** no damage.
-* **Damages:** damage present.
+* **Damages:** damage present. If vehicle comparison is enabled for your retailer, this label reads **Existing Damages** instead.
 * **Unrecognized:** not recognised.
 
 The top bar also has a **Faults List** toggle and a **?** help icon, and **Done** on the right.
@@ -62,6 +62,8 @@ _A panel under review with confirmed damages marked; use the panel dropdown to m
 5.  In the **Add Damage** dialog, choose the **Select Panel** and **Select damage** values, set the **Damage Area** (Small or Large), then tap **Next**.
 
     ![](../../.gitbook/assets/demo-r29.png)
+
+    _The panels offered in **Select Panel** depend on your setup - some setups show a longer list._
 6.  In the **Add Repair Method** dialog, pick the **Repair Method** and tap **Save**.
 
     ![](../../.gitbook/assets/demo-r30.jpg)

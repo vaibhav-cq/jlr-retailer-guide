@@ -10,7 +10,7 @@
 
 * Check that you entered the correct email address when creating the invite.
 * Ask the customer to check their spam or junk folder.
-* Check the delivery status in the invite table. If it shows **Undelivered**, the address may be incorrect - create a new invite with the correct address.
+* Check the invite's **Inspection Status** in the invite table. If the customer cannot find the email, create a new invite with the correct address.
 
 ## The invite has expired
 
@@ -26,12 +26,12 @@ The customer will receive a fresh link.
 * Check that you entered the registration number or VIN correctly.
 * Some vehicles, particularly older models or grey imports, may not be in the lookup database. Enter the vehicle details manually and continue.
 
-## The Topix data is missing or incomplete
+## The JLR vehicle data is missing or incomplete
 
-Topix data is retrieved during the customer's inspection using the VIN. It does not appear for:
+The **JLR API Integration** data is retrieved automatically during the inspection using the VIN. It does not appear for:
 
-* Non-JLR vehicles (Topix is JLR-only).
+* Non-JLR vehicles.
 * Inspections where the VIN was not confirmed during the flow.
-* Any lookup where the VIN does not return a result from Topix.
+* Any lookup where the VIN does not return a result.
 
 If the data is missing for a JLR vehicle, contact your ClearInspect support team.

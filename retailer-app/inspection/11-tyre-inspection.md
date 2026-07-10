@@ -49,6 +49,10 @@ Record tread depth per tyre, with inner, middle and outer readings in mm (decima
 
 ![](../../.gitbook/assets/demo-r41.png)
 
+### Auto tyre scan
+
+On some setups the tread entry screen also offers an automatic scan. If you see a scan option next to the tread values, you can scan the tyre and let the app read the tread depth for you. Check the values it fills in and correct them manually if needed - manual entry is always available.
+
 ## Confirming tyre and alloy damage
 
 Review and confirm any tyre and alloy damage on each wheel. Add or remove damage as you do on other panels ([Reviewing damage](13-reviewing-damage.md)).

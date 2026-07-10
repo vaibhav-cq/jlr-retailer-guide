@@ -37,10 +37,6 @@ The first time you sign in, a pop-up asks you to accept the Terms & Conditions b
 If you see an error after signing in, check that your administrator has added you to ClearInspect. Contact your retailer admin or the ClearInspect support team if the issue persists.
 {% endhint %}
 
-{% hint style="info" %}
-JLR ForgeRock single sign-on is planned as the long-term sign-in method but is not yet available. For now, all users sign in with email, password and an email OTP.
-{% endhint %}
-
 ## Signing out
 
 Click your profile icon in the top-right corner and select **Sign out**.

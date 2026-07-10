@@ -23,9 +23,9 @@ Three tabs follow: **INSPECTION DETAILS**, **VEHICLE DETAILS** and **CUSTOMER DE
 
 ![](../../.gitbook/assets/WD08-2.png)
 
-## JLR Topix data (JLR vehicles only)
+## JLR API Integration (JLR vehicles only)
 
-For JLR vehicles, additional data pulled from the Topix system:
+For JLR vehicles, the **JLR API Integration** section shows extra data retrieved automatically using the vehicle's VIN:
 
 * First registration date.
 * Chassis number and engine number.
@@ -36,7 +36,7 @@ For JLR vehicles, additional data pulled from the Topix system:
 * Service history (View).
 * Service recalls (View).
 
-This data is retrieved automatically during the inspection using the vehicle's VIN, and shown in the report.
+This data is retrieved automatically during the inspection - no action is needed in the app.
 
 ![](../../.gitbook/assets/WD08-3.png)
 
@@ -56,7 +56,7 @@ Automatic damage detection applies to exterior images. Interior images are shown
 
 ## Panel overview
 
-Below the images, chips filter the panel view: **Overview**, **Heatmap**, **Front**, **Left Front**, **Left Rear**, **Rear**, **Right Rear**, **Right Front**, **Tyre** and **Roof**. Tap on icons to view panels. The interior overview also has **Main** and **Extras** chips.
+Below the images, chips filter the panel view: **Overview**, **Heatmap**, **Front**, **Left Front**, **Left Rear**, **Rear**, **Right Rear**, **Right Front**, **Tyre** and **Roof**. Click an icon to view that panel. The interior overview also has **Main** and **Extras** chips.
 
 ### Tyre information
 
@@ -83,13 +83,15 @@ All answers to the inspection checklist are listed in the **Inspection Checklist
 
 ## Change log
 
-Below the checklist section, the report includes a **change log** — an audit trail of edits made to the report, including the damage changes inspectors make during Damage Confirmation in the app. Each entry shows the change, who made it and when. The change log is read-only; retention follows your organisation's policy.
+Below the checklist section, the report includes a **Damage Change Log** - an audit trail of edits made to the report, including the damage changes inspectors make during Damage Confirmation in the app. Each entry shows the change, who made it and when. The change log is read-only; retention follows your organisation's policy.
 
 ![](../../.gitbook/assets/WD08-8.png)
 
 ## Repair estimate
 
 If enabled for your retailer, the report includes a **Repair estimate** table with a line per damage: **Panel**, **Damage Description**, **Repair Method**, **Damage intensity**, **Estimated price**, **Discount %**, **Discount**, **Final Price** and **Approve**, with a **Total** row and a **Show clean panels** toggle. The estimate can be edited and sent to the customer for approval - see [Editing damages](09-editing-damages.md).
+
+On some setups the estimate also includes standard line items that appear on every inspection, even when no damage is found, so the table can show more rows than confirmed damages.
 
 ![](../../.gitbook/assets/WD08-9.png)
 

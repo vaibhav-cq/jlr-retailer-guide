@@ -25,5 +25,13 @@ The interior configuration you confirmed at the start (such as drive side and nu
 {% endhint %}
 
 {% hint style="info" %}
-If a view will not turn green, turn on the **Manual** toggle (top right) and tap the shutter.
+If a view will not turn green, turn on the **Manual** toggle (top right) and tap the shutter. If a view stays red for a few seconds, the toggle glows to catch your attention - it is still off, and turning it on is your choice.
 {% endhint %}
+
+## If your overlay stays white
+
+On some setups interior capture is fully manual, just like the exterior. You will know this is you if the **overlay stays white** - it never turns red or green - and there is **no Manual toggle**.
+
+* The white overlay shows which part to frame, but it does not check quality.
+* Frame the view as well as you can, then tap the **shutter**.
+* Move to the next view and repeat until all required interior views are captured.

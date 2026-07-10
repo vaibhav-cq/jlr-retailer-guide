@@ -2,11 +2,11 @@
 
 Single source of truth for every image slot in the guide. The old inline `[Screenshot: …]` placeholders have been **removed from the pages**, so nothing renders as raw text on the live site. Use this table to see what is attached, what still needs a capture, where each goes, and what to shoot first.
 
-**Status:** 78 attached · 17 to capture · 2 reuse — 97 slots total. _(updated 8 Jul 2026)_
+**Status:** 76 attached · 23 to capture (incl. 2 recaptures) · 2 reuse — 101 slots total. _(updated 9 Jul 2026)_
 
 **Priority:** 🔴 18 must-have (do before go-live) · 30 can follow after go-live.
 
-**Legend** — Status: ✅ in the page · ⬜ needs a fresh capture · ♻️ reuse another slot's image. Priority: 🔴 needed before Stratstone uses the guide · Follow = fine to backfill later · — = already done.
+**Legend** — Status: ✅ in the page · ⬜ needs a fresh capture · ♻️ reuse another slot's image. Priority: 🔴 needed before go-live · Follow = fine to backfill later · — = already done.
 
 To attach one: capture the screen, save it into `.gitbook/assets/`, then in the listed page add `![](../../.gitbook/assets/your-file.png)` at the listed position, with a blank line before any caption. **Leave the alt text empty** — GitBook renders image alt text as a visible caption, so putting the ID there makes "RA06-2" etc. show under the picture; the ID lives in the trailing HTML comment instead (invisible on the site, still greppable in the repo).
 
@@ -31,10 +31,12 @@ To attach one: capture the screen, save it into `.gitbook/assets/`, then in the 
 | RA07-5 | `07-capturing-exterior-images` › How the guided flow works | Intro | ✅ Attached | — | `demo-r09.jpg` |
 | RA07-1 | `07-capturing-exterior-images` › How the guided flow works | Intro | ✅ Attached | — | `demo-r10.jpg` |
 | RA07-2 | `07-capturing-exterior-images` › Capture the exterior | Step 6 | ✅ Attached | — | `demo-r11.jpg` |
-| RA07-3 | `07-capturing-exterior-images` › Using the Manual toggle | Step 3 | ✅ Attached | — | `demo-r10.jpg` |
+| RA07-3 | `07-capturing-exterior-images` › Using the Manual toggle | Step 3 | ⬜ Recapture | Follow | Recapture with the Manual toggle ON → `RA07-3.png` (interim: `demo-r10.jpg` with honest caption) |
 | RA07-4 | `07-capturing-exterior-images` › Finishing capture: upload screen | Step 2 | ✅ Attached | — | `demo-r16.jpg` |
+| RA07-6 | `07-capturing-exterior-images` › If your overlay stays white | Intro | ⬜ Capture | Follow | Fully manual capture screen — white overlay, required-views list, shutter, no Manual toggle → `RA07-6.png` (fills the page's \[Insert Image] placeholder) |
 | RA08-1 | `08-capturing-interior-images` › How interior capture works | Intro | ✅ Attached | — | `demo-r13.jpg` |
 | RA08-2 | `08-capturing-interior-images` › Capture the interior | Step 5 | ✅ Attached | — | `demo-r12.jpg` |
+| RA08-3 | `08-capturing-interior-images` › If your overlay stays white | Intro | ⬜ Capture | Follow | Interior view with a white overlay and the shutter, no Manual toggle → `RA08-3.png` |
 | RA09-1 | `09-capturing-the-instrument-cluster` › Turn the ignition on | Intro | ✅ Attached | — | `demo-r14.jpg` |
 | RA09-2 | `09-capturing-the-instrument-cluster` › Capture the cluster | Step 3 | ✅ Attached | — | `demo-r15.jpg` |
 | RA09-3 | `09-capturing-the-instrument-cluster` › What the app reads | Intro | ✅ Attached | — | `demo-r17.png` |
@@ -44,6 +46,7 @@ To attach one: capture the screen, save it into `.gitbook/assets/`, then in the 
 | RA11-4 | `11-tyre-inspection` › Reading and editing tyre information | Intro | ✅ Attached | — | `demo-r38.jpg` |
 | RA11-9 | `11-tyre-inspection` › Reading and editing tyre information | Step 3 | ✅ Attached | — | `demo-r39.png` |
 | RA11-5 | `11-tyre-inspection` › Entering tyre tread depth | Step 4 | ✅ Attached | — | `demo-r41.png` |
+| RA11-10 | `11-tyre-inspection` › Auto tyre scan | Intro | ⬜ Capture | Follow | Tread entry screen showing the auto scan option → `RA11-10.png` |
 | RA11-6 | `11-tyre-inspection` › Confirming tyre and alloy damage | Intro | ✅ Attached | — | `demo-r40.jpg` |
 | RA11-7 | `11-tyre-inspection` › Marking a tyre for replacement | Step 2 | ✅ Attached | — | `demo-r40.jpg` |
 | RA12-1 | `12-completing-the-checklist` › — | Intro | ✅ Attached | — | `demo-r17.png` |
@@ -92,8 +95,9 @@ To attach one: capture the screen, save it into `.gitbook/assets/`, then in the 
 | WD05-1 | `05-creating-an-invite` › Send an invite | Step 8 | ✅ Attached | — | `WD05-1.png` |
 | WD05-2 | `05-creating-an-invite` › Send an invite | Step 8 | ✅ Attached | — | `WD05-2.png` |
 | WD05-3 | `05-creating-an-invite` › What the customer receives | Intro | ⬜ Capture | Follow | The invite email a customer receives (email-client screenshot) |
+| WD05-4 | `05-creating-an-invite` › Send an invite | Step 7 | ⬜ Capture | Follow | Invite form after **Enter manually** — Make and Model fields visible → `WD05-4.png` |
 | WD06-1 | `06-tracking-invites` › The invite table | Intro | ✅ Attached | — | `WD06-1.png` (see text-fix note) |
-| WD07-1 | `07-finding-an-inspection` › Search for an inspection | Step 3 | ✅ Attached | — | `WD07-1.png` |
+| WD07-1 | `07-finding-an-inspection` › Search for an inspection | Step 3 | ⬜ Recapture | 🔴 Must-have | Recapture or re-blur `WD07-1.png` — the retailer filter chip shows a test dealer name unblurred |
 | WD07-2 | `07-finding-an-inspection` › Filter results | Intro | ⬜ Capture | Follow | Web dashboard → Search → filters (status/date/retailer/inspector) |
 | WD08-1 | `08-understanding-the-report` › — | Intro | ✅ Attached | — | `WD08-1.png` |
 | WD08-2 | `08-understanding-the-report` › Vehicle header and details tabs | Intro | ✅ Attached | — | `WD08-2.png` (crop of WD08-1) |
@@ -134,6 +138,7 @@ RA14-1 = WD08-9 · RA15-2 = RA16-1 · RA16-2 = WD07-1 · RA16-3 = WD08-1 · RA16
 
 ## Notes
 
+- **Name new captures after their slot ID** (for example `RA16-1.png`, `WD10-1.png`), matching the existing convention — this keeps every capture traceable back to its tracker row.
 - **Image alt text is intentionally empty** on every embedded image. GitBook shows alt text as a caption, so IDs are stored in a trailing `<!-- ID -->` comment instead. Keep new images the same way.
 
 - **WD08-10** is an extra slot on the *Assessment / Comparison* section of `08-understanding-the-report` not in the original capture list — needs the vehicle-to-vehicle comparison view, or remove the slot if that view is deferred.
