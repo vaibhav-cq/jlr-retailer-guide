@@ -4,13 +4,13 @@ Use the Search function to find any inspection - whether carried out by a retail
 
 ## Search for an inspection
 
-1. Click the **Search** icon in the sidebar.
+1. Click the **Search** icon in the sidebar. The **Search quote** page opens.
 2. Enter one of the following in the search box:
-   * Registration number (VRM)
+   * Licence plate or vehicle number
    * VIN
-   * Customer name or email
-   * Inspector name
-3. Press **Enter** or click **Search**.
+   * Customer name
+   * Quote ID
+3. Click **Apply**.
 
 Results appear as a list of matching inspections.
 
@@ -20,10 +20,12 @@ Results appear as a list of matching inspections.
 
 Narrow down results using the filter options:
 
-* **Status** - Completed, In Progress, Incomplete, Expired.
+* **Inspection Status**, **Damage Status**, **Defects** and **Approval Status** - narrow by status.
 * **Date range** - set a start and end date.
-* **Retailer** - visible to Retailer Group Admins and above.
-* **Inspector** - find inspections by a specific team member.
+* **Retailer** - shown if your account covers more than one retailer.
+* **Created by** - find inspections by a specific team member.
+
+Set your filters, then click **Apply**. Use **Clear All** to reset them.
 
 ## Open an inspection
 

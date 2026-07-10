@@ -15,6 +15,7 @@ Clear images help ClearInspect detect damage and read details correctly.
 * Keep the whole panel in frame.
 * Wait for the overlay to turn green.
 * Let auto-capture fire for exterior images.
+* If your overlay stays white, your setup captures manually - frame each view carefully and tap the shutter yourself.
 * Watch the counter (for example 0/41) to track progress, and tap **Done** when all views are captured.
 
 ![](../../.gitbook/assets/demo-r10.jpg)
@@ -22,7 +23,7 @@ Clear images help ClearInspect detect damage and read details correctly.
 _The overlay turns green when framing and quality are right - the app then auto-captures._
 
 {% hint style="info" %}
-If an image will not auto-capture, turn on the Manual toggle (top right) and tap the shutter.
+If an image will not auto-capture, turn on the Manual toggle (top right) and tap the shutter. If there is no Manual toggle, your setup is fully manual - tap the shutter for every view.
 {% endhint %}
 
 ## Before and during

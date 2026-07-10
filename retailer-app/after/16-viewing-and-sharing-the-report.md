@@ -12,7 +12,7 @@ The app opens the report automatically at sign-off. It shows:
 * Checklist responses.
 * The assessment table.
 * The repair estimate, if enabled for your retailer.
-* For JLR vehicles, JLR (Topix) data such as service history, recalls, optional extras and engine details.
+* For JLR vehicles, extra JLR vehicle data such as service history, recalls, optional extras and engine details (shown under **JLR API Integration** on the web report).
 
 ## On the web dashboard
 

@@ -13,7 +13,7 @@ Tap **Forgot Password?** on the login screen and enter the email address registe
 ## Capturing images
 
 **An image will not capture.**
-Improve the lighting, give yourself space, and clean the lens. If it still will not auto-capture, turn on the Manual toggle (top right) and tap the shutter.
+Improve the lighting, give yourself space, and clean the lens. If it still will not auto-capture, turn on the Manual toggle (top right) and tap the shutter. If there is no Manual toggle and your overlay stays white, your setup captures manually - tap the shutter for every view.
 
 ## Vehicle details
 

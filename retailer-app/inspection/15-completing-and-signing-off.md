@@ -16,7 +16,7 @@ An **Inspection Submitted** confirmation appears. The inspection is now complete
 
 ## The in-app report opens
 
-After sign-off, the app opens the in-app report so you can check the result straight away. The completed inspection also appears on the home screen with its **Estimate** and **Approved** totals.
+After sign-off, the app opens the in-app report so you can check the result straight away. The completed inspection also appears on the home screen. If the repair estimate is enabled for your retailer, the card also shows the **Estimate** and **Approved** totals.
 
 {% hint style="info" %}
 The next page covers what the report shows and how to view and share it, in the app and on the web dashboard.

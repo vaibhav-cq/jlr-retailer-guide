@@ -1,6 +1,6 @@
 # Supported languages
 
-The ClearInspect Retailer app and Client app are available in the following languages:
+The languages available in the ClearInspect Retailer app and Client app depend on your setup. Typical examples include:
 
 * English
 * German

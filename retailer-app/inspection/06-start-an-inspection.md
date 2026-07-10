@@ -32,14 +32,14 @@ The **Vehicle details** screen has an **Offline Mode** toggle. If you have no in
 2.  On the **Capture License Plate** screen, align the registration plate inside the guide and capture the image. Tap **Cancel** to go back.
 
     ![](../../.gitbook/assets/demo-r05.jpg)
-3.  Verify the detected number. Edit the detected value if the OCR read it wrongly, or tap **Retry** to scan again, then continue.
+3.  Verify the detected number. Edit the detected value if the app read it wrongly, or tap **Retry** to scan again, then continue.
 
     ![](../../.gitbook/assets/demo-r06.png)
 
     _Verify the detected number - tap the tick to confirm, or Retry to scan again._
 
 {% hint style="info" %}
-In VIN-first markets, you scan the VIN instead of the registration plate.
+If your screen shows **Scan VIN** instead of **Scan License Plate**, scan the VIN - the steps are the same.
 {% endhint %}
 
 ## Confirm the vehicle details
@@ -59,7 +59,7 @@ The app pre-fills the vehicle details from the lookup. The form shows:
 
 ## Select the bodystyle
 
-The **Select Bodystyle** screen shows a graphic picker: Sedan, Hatch, SUV, Wagon, Coupe, Convertible and Van. The detected bodystyle is pre-selected.
+The **Select Bodystyle** screen shows a graphic picker - for example Sedan, Hatch, SUV, Wagon, Coupe, Convertible and Van. The options can vary by setup. The detected bodystyle is pre-selected.
 
 1. Correct the bodystyle if required.
 2. Tap **Start Inspection** to begin capture, or **Cancel** to go back.

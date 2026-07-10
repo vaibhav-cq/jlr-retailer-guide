@@ -22,8 +22,10 @@ The counts on the home screen reflect your access level.
 
 ## Navigation
 
-Use the sidebar on the left to move between sections of the dashboard:
+Use the sidebar on the left to move between sections. The main ones are:
 
 * **Home** - the Inspection Summary card.
 * **Search** - find any inspection by registration, VIN or customer name.
-* **Invite** - send a new customer inspection invite.
+* **Invite** - send a new customer inspection invite (shown when enabled for your retailer).
+
+Your sidebar may show more options depending on your role.

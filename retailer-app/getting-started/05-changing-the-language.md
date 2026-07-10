@@ -4,7 +4,7 @@ Change the language ClearInspect uses from the menu after you sign in. The defau
 
 ## Supported languages
 
-English, German, Spanish, Dutch (Netherlands), Dutch (Belgium), French (Morocco), French (Belgium), Italian, Romanian, Portuguese, Slovak, Slovenian, Czech.
+The languages available depend on your setup. Typical examples include English, German, Spanish, Dutch, French, Italian, Romanian, Portuguese, Slovak, Slovenian and Czech.
 
 ## Change the language
 

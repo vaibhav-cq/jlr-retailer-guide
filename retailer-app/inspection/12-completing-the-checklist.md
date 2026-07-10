@@ -34,7 +34,7 @@ Some answers open a follow-up question. For example, answering **Yes** to an ite
 
 ![](../../.gitbook/assets/demo-r20.png)
 
-A condition question. The red asterisk marks a mandatory question; the camera icon attaches a photo.
+_A condition question. The red asterisk marks a mandatory question; the camera icon attaches a photo._
 
 {% hint style="info" %}
 Mandatory questions are marked with a red asterisk. You cannot move past the checklist until all of them are answered.

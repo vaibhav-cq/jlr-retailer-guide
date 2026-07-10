@@ -16,7 +16,7 @@ Each inspection card shows:
 * The registration and VIN.
 * The date and time.
 * The vehicle description (make, model and derivative).
-* The **Estimate** and **Approved** amounts for the repair estimate, in your market currency.
+* If the repair estimate is enabled for your retailer, the card also shows the **Estimate** and **Approved** amounts in your market currency.
 
 ## Start a new inspection
 

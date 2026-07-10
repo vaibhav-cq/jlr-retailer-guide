@@ -23,5 +23,5 @@ Search by first name, last name, email, registration number or VIN. Each row sho
 Open the **Details** of any row with an Inspection Status of **Completed** to open the report directly.
 
 {% hint style="info" %}
-Invites expire after 48 hours by default. Once expired, the link no longer works and the customer must be re-invited.
+Invites usually expire after 48 hours (the exact validity depends on your retailer setup). Once expired, the link no longer works and the customer must be re-invited.
 {% endhint %}

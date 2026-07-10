@@ -2,6 +2,10 @@
 
 Send a customer an invite to appraise their own vehicle. The customer receives a link by email and completes the inspection on their own device using the ClearInspect Client app.
 
+{% hint style="info" %}
+If you do not see **Invite** in the sidebar, customer self-inspection is not enabled for your retailer - your setup is inspection-only, and this page does not apply.
+{% endhint %}
+
 ## Before you start
 
 * Have the customer's first name, last name and email address to hand.
@@ -12,23 +16,21 @@ Send a customer an invite to appraise their own vehicle. The customer receives a
 ## Send an invite
 
 1. Click **Invite** in the sidebar.
-2. If you manage more than one retailer, select the correct retailer from the dropdown.
-3. Enter the **client first name**, **last name** and **email address** (all required).
-4. Enter the vehicle details.
-   * Select **Make** and **Model** from the dropdowns.
-   * Enter the **Registration (VRM)** or **VIN** as prompted for your market.
-5. Click **Fetch vehicle data**.
+2. If you manage more than one retailer, select it from the **Select Dealer** dropdown.
+3. Enter the customer's **First name** and **Email** (required). **Last name** and **Phone** are optional.
+4. Select the **email language** for the invite (defaults to your profile language).
+5. Under **Enter Vehicle Details**, enter the **registration number** (or **VIN**, as prompted for your market).
+6. Click **Fetch vehicle data**.
 
-   The dashboard looks up basic vehicle details and displays them for you to check before sending. For JLR vehicles, a more detailed Topix lookup runs automatically in the background during the inspection itself.
-
-6. Confirm the fetched details are correct, or enter them manually if the lookup returns nothing.
+   The vehicle details appear for you to check before sending. For JLR vehicles, extra data appears under **JLR API Integration**, and more is retrieved automatically during the inspection itself.
 
    ![](../../.gitbook/assets/WD05-2.png)
 
-7. Select the **email language** for the invite (defaults to your profile language).
-8. Click **Send Invite**.
+7. If the lookup returns nothing, click **Enter manually** - the **Make** and **Model** fields then appear for you to fill in.
+8. If asked, record the **vehicle condition** and **odometer reading**.
+9. Click **Send Invite**.
 
-A confirmation appears. The customer receives an email within 60 seconds. The invite is valid for 48 hours by default.
+A confirmation appears. The customer receives an email within a minute or two. Invites are usually valid for 48 hours, but the exact validity depends on your retailer setup - the email shows the expiry time.
 
 
 {% hint style="info" %}
@@ -46,9 +48,9 @@ The customer email contains:
 
 ## Vehicle data returned by lookup
 
-For JLR vehicles (Topix / VIN lookup) and non-JLR vehicles (VRM third-party lookup), the fields returned differ.
+The fields returned differ for JLR and non-JLR vehicles.
 
-| Field | JLR (Topix) | Non-JLR (VRM) |
+| Field | JLR vehicles | Other vehicles |
 |---|---|---|
 | Make | Yes | Yes |
 | Model | Yes | Yes |
