@@ -22,7 +22,9 @@ Common questions about the ClearInspect Retailer app.
 
 ## App crashed or closed
 
-**The app closed unexpectedly during an inspection.** Reopen the app and go to the home screen. Your inspection appears as an **In progress** card - tap it to carry on from where you left off. Completed steps are saved on the device, and anything not yet uploaded syncs once you are back online, so keep the app installed and do not delete it. When you resume, check the last view you were capturing and, if it did not save, recapture it following the overlay.
+**The app closed or crashed during an inspection. Can I carry on?** No - an interrupted inspection cannot be resumed. The inspection card stays on the home screen, but you cannot reopen it to carry on from where you left off. If the report is incomplete, start a new inspection for that vehicle.
+
+**What happens to the inspection I had started?** It depends on how far you had reached. If the app closed while you were still capturing images, before you tapped **Done**, or after **Done** but before the checklist was complete, the card shows **Analysis in progress**; opening it shows a report with only the images that had already uploaded in the background, and the rest is empty. If it closed on the **Damage Confirmation** screen, the card shows **Completed** and the report is generated with the auto-detected damage.
 
 {% hint style="info" %}
 Some details vary by retailer setup. If a problem continues, contact your administrator.

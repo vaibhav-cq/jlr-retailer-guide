@@ -313,3 +313,26 @@ New Web Dashboard + Retailer App captures added in the 8 Jul batch. Sensitive re
 | RA06-1-location.png | Location map thumbnail |
 
 Kept visible by decision: repair-estimate GBP prices (WD08-1); "JLR Retailer Internal" role label.
+
+## Blur applied to offline-flow captures - 14 Jul 2026
+
+Offline-flow captures added for `18-working-offline` (RA18-4 to RA18-10). Registration on the home-screen cards blurred (Gaussian), matching RA18-1 / RA18-2. Done - do not re-blur; only flag any NEW exposure.
+
+| Asset | Blurred |
+|---|---|
+| RA18-7.png | Both card regs (D8708T7 Upload Due card, D870085 Completed card) |
+| RA18-8.png | Both card regs (D8708T7, D870085); "Unable to initiate upload" toast left visible |
+| RA18-9.png | Both card regs (D8708T7 Review Due card, D870085 Completed card) |
+| RA18-4.png / RA18-5.png / RA18-6.png / RA18-10.png | No registration or personal data on screen - nothing to blur |
+
+Kept visible by decision: vehicle model names (Range Rover Sport / Velar); GBP 0 estimate values; dates and times.
+
+## Blur applied - exterior manual-capture screen - 14 Jul 2026
+
+`RA07-6.png` (fills the "If your overlay stays white" placeholder on `07-capturing-exterior-images`).
+
+| Asset | Blurred |
+|---|---|
+| RA07-6.png | Physical number plate on the vehicle (BK25 UBF) and the small "drivepivotal.com" watermark beneath it |
+
+Kept visible by decision: vehicle make/model badges (Discovery / Land Rover); required-views list; background factory setting.
