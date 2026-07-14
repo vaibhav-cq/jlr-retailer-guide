@@ -58,13 +58,13 @@ On some setups the exterior flow is fully manual. You will know this is you if t
 In this case:
 
 * The white overlay shows which part to frame, but it does not check quality or capture on its own.
-* You tap the **shutter** to capture each view.
+* You tap the **shutter** to capture each view. The shutter pulses after a few seconds to catch your attention.
 * The required-views list on the right and the figure on the left work exactly as above.
 * The counter may show a different total (for example **0/30**), because the set of required views can differ.
 
-\[Insert Image]
+![](../../.gitbook/assets/RA07-6.png)
 
-_The fully manual screen: a white overlay, the required-views list on the right, and the shutter button. There is no Manual toggle._
+_The fully manual screen: a white overlay, the required-views list on the right, and the shutter button, which pulses after a few seconds to catch your attention. There is no Manual toggle._
 
 To capture:
 

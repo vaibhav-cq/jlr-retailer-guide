@@ -2,9 +2,11 @@
 
 Single source of truth for every image slot in the guide. The old inline `[Screenshot: …]` placeholders have been **removed from the pages**, so nothing renders as raw text on the live site. Use this table to see what is attached, what still needs a capture, where each goes, and what to shoot first.
 
-**Status:** 76 attached · 23 to capture (incl. 2 recaptures) · 2 reuse — 101 slots total. _(updated 9 Jul 2026)_
+**Status:** 83 attached · 21 to capture (incl. 2 recaptures) · 2 reuse · 1 retired — 106 slots total. _(updated 14 Jul 2026)_
 
-**Priority:** 🔴 18 must-have (do before go-live) · 30 can follow after go-live.
+_14 Jul 2026: added the offline-flow captures RA18-4 to RA18-10 (all attached); retired RA18-1 (superseded by RA18-7); removed RA04-2, as the "Resume an inspection" section was deleted (that feature is not available - the offline Upload Due to Review Due flow is the closest equivalent)._
+
+**Priority:** 🔴 18 must-have still to capture (the RA18-4 to RA18-10 go-live shots are now attached) · 28 can follow after go-live.
 
 **Legend** — Status: ✅ in the page · ⬜ needs a fresh capture · ♻️ reuse another slot's image. Priority: 🔴 needed before go-live · Follow = fine to backfill later · — = already done.
 
@@ -19,7 +21,6 @@ To attach one: capture the screen, save it into `.gitbook/assets/`, then in the 
 | RA03-3 | `03-signing-in` › Forgot your password? | Step 3 | ✅ Attached | — | `RA03-3.png` |
 | RA03-2 | `03-signing-in` › Accepting the Terms & Conditions | Step 2 | ✅ Attached | — | `demo-r02.png` |
 | RA04-1 | `04-the-home-screen` › — | Intro | ✅ Attached | — | `demo-r03.png` |
-| RA04-2 | `04-the-home-screen` › Resume an inspection | Step 2 | ⬜ Capture | Follow | Retailer app → home → a card marked "In progress" |
 | RA05-2 | `05-changing-the-language` › Change the language | Step 3 | ✅ Attached | — | `RA05-2.png` |
 | RA06-1 | `06-start-an-inspection` › Before you start | Step 3 | ✅ Attached | — | `RA06-1-camera.png` + `RA06-1-location.png` |
 | RA06-2 | `06-start-an-inspection` › Scan the number plate | Step 1 | ✅ Attached | — | `demo-r04.png` |
@@ -33,7 +34,7 @@ To attach one: capture the screen, save it into `.gitbook/assets/`, then in the 
 | RA07-2 | `07-capturing-exterior-images` › Capture the exterior | Step 6 | ✅ Attached | — | `demo-r11.jpg` |
 | RA07-3 | `07-capturing-exterior-images` › Using the Manual toggle | Step 3 | ⬜ Recapture | Follow | Recapture with the Manual toggle ON → `RA07-3.png` (interim: `demo-r10.jpg` with honest caption) |
 | RA07-4 | `07-capturing-exterior-images` › Finishing capture: upload screen | Step 2 | ✅ Attached | — | `demo-r16.jpg` |
-| RA07-6 | `07-capturing-exterior-images` › If your overlay stays white | Intro | ⬜ Capture | Follow | Fully manual capture screen — white overlay, required-views list, shutter, no Manual toggle → `RA07-6.png` (fills the page's \[Insert Image] placeholder) |
+| RA07-6 | `07-capturing-exterior-images` › If your overlay stays white | Intro | ✅ Attached | — | `RA07-6.png` (Discovery Sport manual-capture screen; plate blurred) |
 | RA08-1 | `08-capturing-interior-images` › How interior capture works | Intro | ✅ Attached | — | `demo-r13.jpg` |
 | RA08-2 | `08-capturing-interior-images` › Capture the interior | Step 5 | ✅ Attached | — | `demo-r12.jpg` |
 | RA08-3 | `08-capturing-interior-images` › If your overlay stays white | Intro | ⬜ Capture | Follow | Interior view with a white overlay and the shutter, no Manual toggle → `RA08-3.png` |
@@ -79,9 +80,16 @@ To attach one: capture the screen, save it into `.gitbook/assets/`, then in the 
 | RA16-4 | `16-viewing-and-sharing-the-report` › Download and share | Intro | ♻️ Reuse | 🔴 Must-have | Reuse **WD10-1** — Web: download / share PDF |
 | RA17-1 | `17-inviting-a-customer-to-self-inspect` › Send an invite | Step 8 | ✅ Attached | — | `WD05-1.png` (reuse WD05-1) |
 | RA17-2 | `17-inviting-a-customer-to-self-inspect` › Track your invites | Intro | ✅ Attached | — | `WD06-1.png` (reuse WD06-1) |
-| RA18-3 | `18-working-offline` › Turn Offline Mode on | Intro | ✅ Attached | — | `demo-r04.png` |
-| RA18-1 | `18-working-offline` › What works offline | Intro | ✅ Attached | — | `RA18-1.png` |
-| RA18-2 | `18-working-offline` › Make sure your data syncs | Intro | ✅ Attached | — | `RA18-2.png` |
+| RA18-3 | `18-working-offline` › Turn Offline Mode on | Turn it on yourself | ✅ Attached | — | `demo-r04.png` |
+| RA18-4 | `18-working-offline` › Turn Offline Mode on | Let the app switch for you | ✅ Attached | 🔴 | `RA18-4.png` |
+| RA18-5 | `18-working-offline` › Turn Offline Mode on | Let the app switch for you | ✅ Attached | 🔴 | `RA18-5.png` |
+| RA18-6 | `18-working-offline` › Sign off and review later | Intro | ✅ Attached | 🔴 | `RA18-6.png` (landscape) |
+| RA18-7 | `18-working-offline` › Upload when you are back online | Intro | ✅ Attached | 🔴 | `RA18-7.png` |
+| RA18-8 | `18-working-offline` › Upload when you are back online | Cannot upload offline | ✅ Attached | 🔴 | `RA18-8.png` |
+| RA18-2 | `18-working-offline` › Upload when you are back online | Back online | ✅ Attached | — | `RA18-2.png` |
+| RA18-9 | `18-working-offline` › Review the damage after upload | Intro | ✅ Attached | 🔴 | `RA18-9.png` |
+| RA18-10 | `18-working-offline` › Review the damage after upload | Analysis in progress | ✅ Attached | 🔴 | `RA18-10.png` (landscape) |
+| ~~RA18-1~~ | ~~`18-working-offline` › What works offline~~ | — | ♻️ Retired | — | superseded by `RA18-7.png`; `RA18-1.png` no longer used |
 | RA20-1 | `20-tips-for-good-captures` › Prepare the vehicle and area | Intro | ⬜ Capture | Follow | A staged photo of a vehicle in a well-lit area with room to walk around (not an app screen) |
 | RA20-2 | `20-tips-for-good-captures` › While you capture | Intro | ✅ Attached | — | `demo-r10.jpg` |
 | RA20-3 | `20-tips-for-good-captures` › Before and during | Intro | ✅ Attached | — | `RA06-1-camera.png` (reuse RA06-1) |

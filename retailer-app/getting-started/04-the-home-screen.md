@@ -25,11 +25,6 @@ Each inspection card shows:
 
 See [Start an inspection](../inspection/06-start-an-inspection.md).
 
-## Resume an inspection
-
-1. Find the card marked **In progress**.
-2. Tap it to resume where you left off.
-
 ## Open the menu
 
 Tap the **hamburger** icon to change the language and reach other options.
