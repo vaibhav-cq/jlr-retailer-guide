@@ -5,20 +5,18 @@ Install the ClearInspect Retailer app from the Apple App Store. You need an iPho
 ## Install ClearInspect
 
 1. Open the **App Store**.
-2. Search for **ClearInspect**.
-3. Open the ClearInspect listing.
+2. Search for **ClearInspect Retailer**.
+3. Open the ClearInspect Retailer listing.
 4. Tap **Get** to install.
 5. Wait for the download to finish.
 
-<img src="../../.gitbook/assets/RA02-1.png" width="250" />
+<img src="../../.gitbook/assets/RA02-1.png" alt="" width="250">
 
 ## Open the app
 
 1. Go to your home screen.
-2. Tap the **ClearInspect** icon.
+2. Tap the **ClearInspect Retailer** icon.
 
 {% hint style="info" %}
-If you have an older inspection app installed, uninstall it to avoid confusion. Keep only the current ClearInspect app.
+If you have an older inspection app installed, uninstall it to avoid confusion. Keep only the current ClearInspect Retailer app.
 {% endhint %}
-
-Next: [Signing in](03-signing-in.md).
