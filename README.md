@@ -24,7 +24,7 @@ For retailer staff carrying out vehicle inspections on a mobile device.
 * [Tyre inspection](retailer-app/inspection/11-tyre-inspection.md)
 * [Completing the checklist](retailer-app/inspection/12-completing-the-checklist.md)
 * [Reviewing damage](retailer-app/inspection/13-reviewing-damage.md)
-* [Repair estimate](retailer-app/inspection/14-condition-grading-and-repair-estimate.md)
+* [Condition grade and repair estimate](retailer-app/inspection/14-condition-grading-and-repair-estimate.md)
 * [Completing and signing off](retailer-app/inspection/15-completing-and-signing-off.md)
 
 ### After the inspection

@@ -4,7 +4,7 @@ Common questions about the ClearInspect Retailer app.
 
 ## Signing in
 
-**I cannot sign in.** Enter the User ID and password your administrator registered for you, then tap **Login**. If sign-in fails, re-enter them carefully and check your details are correct. If it still fails, contact your administrator.
+**I cannot sign in.** Enter the User ID and password your administrator registered for you, then tap **Login**. If sign-in fails, re-enter them carefully and check your details are correct. If it still fails, contact your administrator, or the ClearInspect support team at vaibhav@clearquote.io.
 
 **I forgot my password.** Tap **Forgot Password?** on the login screen and enter the email address registered with your account. A password reset link is sent to that email.
 
@@ -24,8 +24,8 @@ Common questions about the ClearInspect Retailer app.
 
 **The app closed or crashed during an inspection. Can I carry on?** No - an interrupted inspection cannot be resumed. The inspection card stays on the home screen, but you cannot reopen it to carry on from where you left off. If the report is incomplete, start a new inspection for that vehicle.
 
-**What happens to the inspection I had started?** It depends on how far you had reached. If the app closed while you were still capturing images, before you tapped **Done**, or after **Done** but before the checklist was complete, the card shows **Analysis in progress**; opening it shows a report with only the images that had already uploaded in the background, and the rest is empty. If it closed on the **Damage Confirmation** screen, the card shows **Completed** and the report is generated with the auto-detected damage.
+**What happens to the inspection I had started?** It depends on how far you had reached. If the app closed while you were still capturing images, before you tapped **Done**, or after **Done** but before the checklist was complete, the card shows **Analysis in progress**; opening it shows a report with only the images that had already uploaded in the background, and the rest is empty. Closing on the **Damage Confirmation** screen is also an interrupted inspection that cannot be resumed - start a new inspection for that vehicle.
 
 {% hint style="info" %}
-Some details vary by retailer setup. If a problem continues, contact your administrator.
+Some details vary by retailer setup. If a problem continues, contact your administrator or the ClearInspect support team at vaibhav@clearquote.io.
 {% endhint %}

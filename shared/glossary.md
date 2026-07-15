@@ -1,6 +1,6 @@
 # Glossary
 
-This glossary explains the terms used across the ClearInspect Retailer app and Web Dashboard documentation.
+This glossary explains the terms used across the ClearInspect Retailer app and web dashboard documentation.
 
 **ClearInspect** The name of the JLR vehicle inspection platform. It includes the Retailer app, the web dashboard, and the Client app.
 
@@ -40,9 +40,9 @@ This glossary explains the terms used across the ClearInspect Retailer app and W
 
 **Repair estimate** The estimated cost of repairs, based on confirmed damage and the chosen repair methods. Shown in the report if enabled for your retailer.
 
-**Assessment table** The panel-by-panel breakdown of confirmed damage and repair methods in the inspection report. It is separate from the repair estimate table. On repeat inspections of the same license plate, the Comparison section appears in its place.
+**Assessment table** The panel-by-panel breakdown of confirmed damage and repair methods in the inspection report. It is separate from the repair estimate table. On repeat inspections of the same licence plate, the Comparison section appears in its place.
 
-**Comparison** A report section shown when a vehicle with the same license plate is inspected again. It compares the current inspection against the previous one, with filters for New damages, Existing Damage, Repaired, Clear and Unrecognized.
+**Comparison** A report section shown when a vehicle with the same licence plate is inspected again. It compares the current inspection against the previous one, with filters for New damages, Existing Damage, Repaired, Clear and Unrecognized.
 
 **Change log** An audit trail recorded for each report, shown below the checklist section, listing edits with the editor name and timestamp. It is read-only; retention follows your organisation's policy.
 

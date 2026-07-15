@@ -6,6 +6,11 @@ Single source of truth for every image slot in the guide. The old inline `[Scree
 
 _14 Jul 2026: added the offline-flow captures RA18-4 to RA18-10 (all attached); retired RA18-1 (superseded by RA18-7); removed RA04-2, as the "Resume an inspection" section was deleted (that feature is not available - the offline Upload Due to Review Due flow is the closest equivalent)._
 
+_15 Jul 2026: added a Condition grade section to page 14 (page retitled "Condition grade and repair estimate"). The grade is a manual retailer input - inspector opens the app report and taps **Select vehicle condition** (Poor / Below Average / Average / Above Average / Excellent); it then shows as the **Condition** chip in the web dashboard vehicle header. RA14-2 reuses WD08-2 (chip visible); page 08 vehicle-header prose now names the chip. Nice-to-have RA14-3: the app-side selector screenshot._
+_15 Jul 2026 (later): re-captured the whole web report from the live build (three full-page Chrome captures, duplicate sidebar icons removed). WD08-1 is now the live full report; WD08-2/3/4/5/7/8/9 are larger crops of it; WD08-11 added for the interior carousel + panel diagram. All identifiers blurred (reg, Quote ID, Created-by, chassis, engine, carousel plates). Condition chip DOES show an edit pencil in live reports (editable from the web dashboard); pages 08 and 14 updated to say so._
+_15 Jul 2026 (later): added the app-side condition-grade flow to page 14 as a 3-step sequence - RA14-3 (Select vehicle condition button), RA14-4 (grade picker + Save), RA14-5 (Condition chip after selection). Reg/Quote ID blurred. Page 11 auto-scan list re-indented so step numbering renders correctly._
+_15 Jul 2026: replaced WD08-2 with a live header capture - the previous shot showed an inline edit pencil on the Condition chip that is not in live reports; page 08 prose updated to drop the pencil mention. NOTE: WD08-1 and its other crops (WD08-3/4/5/7/8/9) are still from the older build; recapture from the current live report when possible. Auto tyre scan now documented and illustrated: RA11-11 (+ menu → Tyre Tread) and RA11-10 (Auto-Scan Tread / Enter Tread Manually choice screen) both attached._
+
 **Priority:** 🔴 18 must-have still to capture (the RA18-4 to RA18-10 go-live shots are now attached) · 28 can follow after go-live.
 
 **Legend** — Status: ✅ in the page · ⬜ needs a fresh capture · ♻️ reuse another slot's image. Priority: 🔴 needed before go-live · Follow = fine to backfill later · — = already done.
@@ -47,7 +52,8 @@ To attach one: capture the screen, save it into `.gitbook/assets/`, then in the 
 | RA11-4 | `11-tyre-inspection` › Reading and editing tyre information | Intro | ✅ Attached | — | `demo-r38.jpg` |
 | RA11-9 | `11-tyre-inspection` › Reading and editing tyre information | Step 3 | ✅ Attached | — | `demo-r39.png` |
 | RA11-5 | `11-tyre-inspection` › Entering tyre tread depth | Step 4 | ✅ Attached | — | `demo-r41.png` |
-| RA11-10 | `11-tyre-inspection` › Auto tyre scan | Intro | ⬜ Capture | Follow | Tread entry screen showing the auto scan option → `RA11-10.png` |
+| RA11-10 | `11-tyre-inspection` › Auto tyre scan | Step 2 | ✅ Attached | — | `RA11-10.png` (Enter Tread Manually / Auto-Scan Tread choice screen) |
+| RA11-11 | `11-tyre-inspection` › Auto tyre scan | Step 1 | ✅ Attached | — | `RA11-11.png` (tyre screen, + menu open with Tyre Tread) |
 | RA11-6 | `11-tyre-inspection` › Confirming tyre and alloy damage | Intro | ✅ Attached | — | `demo-r40.jpg` |
 | RA11-7 | `11-tyre-inspection` › Marking a tyre for replacement | Step 2 | ✅ Attached | — | `demo-r40.jpg` |
 | RA12-1 | `12-completing-the-checklist` › — | Intro | ✅ Attached | — | `demo-r17.png` |
@@ -70,7 +76,11 @@ To attach one: capture the screen, save it into `.gitbook/assets/`, then in the 
 | RA13-8 | `13-reviewing-damage` › Remove a damage | Step 3 | ✅ Attached | — | `demo-r34.jpg` |
 | RA13-16 | `13-reviewing-damage` › Remove a damage | Step 3 | ✅ Attached | — | `demo-r35.jpg` |
 | RA13-7 | `13-reviewing-damage` › Finishing the review | Step 3 | ✅ Attached | — | `demo-r44.png` |
-| RA14-1 | `14-condition-grading-and-repair-estimate` › — | Intro | ✅ Attached | — | `WD08-9.png` (reuse WD08-9) |
+| RA14-1 | `14-condition-grading-and-repair-estimate` › Repair estimate | Intro | ✅ Attached | — | `WD08-9.png` (reuse WD08-9) |
+| RA14-2 | `14-condition-grading-and-repair-estimate` › Condition grade | Web chip | ✅ Attached | — | `WD08-2.png` (reuse WD08-2 - shows the Condition chip on the web dashboard) |
+| RA14-3 | `14-condition-grading-and-repair-estimate` › Condition grade | Step 1 | ✅ Attached | — | `RA14-3.png` (app report, Select vehicle condition button; reg/Quote ID blurred) |
+| RA14-4 | `14-condition-grading-and-repair-estimate` › Condition grade | Step 2 | ✅ Attached | — | `RA14-4.png` (grade picker Poor/Below Average/Average/Above average/Excellent + Save; reg blurred) |
+| RA14-5 | `14-condition-grading-and-repair-estimate` › Condition grade | Step 3 | ✅ Attached | — | `RA14-5.png` (app report, Condition chip after selection; reg/Quote ID blurred) |
 | RA15-1 | `15-completing-and-signing-off` › Sign off | Step 3 | ✅ Attached | — | `demo-r44.png` |
 | RA15-3 | `15-completing-and-signing-off` › Sign off | Step 3 | ✅ Attached | — | `demo-r45.png` |
 | RA15-2 | `15-completing-and-signing-off` › The in-app report opens | Intro | ♻️ Reuse | 🔴 Must-have | Reuse **RA16-1** — In-app report opens after sign-off |
@@ -107,16 +117,17 @@ To attach one: capture the screen, save it into `.gitbook/assets/`, then in the 
 | WD06-1 | `06-tracking-invites` › The invite table | Intro | ✅ Attached | — | `WD06-1.png` (see text-fix note) |
 | WD07-1 | `07-finding-an-inspection` › Search for an inspection | Step 3 | ⬜ Recapture | 🔴 Must-have | Recapture or re-blur `WD07-1.png` — the retailer filter chip shows a test dealer name unblurred |
 | WD07-2 | `07-finding-an-inspection` › Filter results | Intro | ⬜ Capture | Follow | Web dashboard → Search → filters (status/date/retailer/inspector) |
-| WD08-1 | `08-understanding-the-report` › — | Intro | ✅ Attached | — | `WD08-1.png` |
-| WD08-2 | `08-understanding-the-report` › Vehicle header and details tabs | Intro | ✅ Attached | — | `WD08-2.png` (crop of WD08-1) |
-| WD08-3 | `08-understanding-the-report` › JLR Topix data (JLR vehicles only) | Intro | ✅ Attached | — | `WD08-3.png` (crop of WD08-1) |
-| WD08-4 | `08-understanding-the-report` › Inspection Images | Intro | ✅ Attached | — | `WD08-4.png` (crop of WD08-1) |
+| WD08-1 | `08-understanding-the-report` › — | Intro | ✅ Attached | — | `WD08-1.png` (full live report, new build; reg/Quote ID/Created-by/chassis/engine + carousel plates blurred) |
+| WD08-2 | `08-understanding-the-report` › Vehicle header and details tabs | Intro | ✅ Attached | — | `WD08-2.png` (crop of WD08-1; Condition chip with edit pencil; reg/Quote ID/Created-by blurred) |
+| WD08-3 | `08-understanding-the-report` › JLR Topix data (JLR vehicles only) | Intro | ✅ Attached | — | `WD08-3.png` (crop of WD08-1, new build; larger) |
+| WD08-4 | `08-understanding-the-report` › Inspection Images | Intro | ✅ Attached | — | `WD08-4.png` (crop of WD08-1, new build; larger) |
+| WD08-11 | `08-understanding-the-report` › Inspection Images | Interior | ✅ Attached | — | `WD08-11.png` (interior tab carousel + interior panel diagram; crop of the Customer Details tab capture) |
 | WD08-6 | `08-understanding-the-report` › Tyre information | Intro | ⬜ Capture | Follow | Web dashboard → report → Tyre information section |
-| WD08-5 | `08-understanding-the-report` › Assessment / Comparison | Intro | ✅ Attached | — | `WD08-5.png` (crop of WD08-1) |
+| WD08-5 | `08-understanding-the-report` › Assessment / Comparison | Intro | ✅ Attached | — | `WD08-5.png` (crop of WD08-1, new build; larger) |
 | WD08-10 | `08-understanding-the-report` › Assessment / Comparison | Intro | ⬜ Capture | Follow | Capture the screen for the *Assessment / Comparison* section (was not in the original capture list) |
-| WD08-7 | `08-understanding-the-report` › Checklist responses | Intro | ✅ Attached | — | `WD08-7.png` (crop of WD08-1) |
-| WD08-8 | `08-understanding-the-report` › Change log | Intro | ✅ Attached | — | `WD08-8.png` (crop of WD08-1) |
-| WD08-9 | `08-understanding-the-report` › Repair estimate | Intro | ✅ Attached | — | `WD08-9.png` (crop of WD08-1) |
+| WD08-7 | `08-understanding-the-report` › Checklist responses | Intro | ✅ Attached | — | `WD08-7.png` (crop of WD08-1, new build; larger) |
+| WD08-8 | `08-understanding-the-report` › Change log | Intro | ✅ Attached | — | `WD08-8.png` (crop of WD08-1, new build; larger) |
+| WD08-9 | `08-understanding-the-report` › Repair estimate | Intro | ✅ Attached | — | `WD08-9.png` (crop of WD08-1, new build; larger) |
 | WD09-1 | `09-editing-damages` › Change a repair method | Step 4 | ⬜ Capture | Follow | Web dashboard → report → estimate table → change a **Repair method** cell |
 | WD10-1 | `10-sharing-and-downloading` › Download a PDF | Step 3 | ⬜ Capture | 🔴 Must-have | Web dashboard → report → **Download PDF** |
 | WD10-2 | `10-sharing-and-downloading` › Share the web report by email | Step 4 | ⬜ Capture | Follow | Web dashboard → report → **Share report** → email dialog |
