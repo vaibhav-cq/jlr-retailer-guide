@@ -17,7 +17,7 @@ At the top, four stages show the state of the inspection, each ticked when compl
 
 ## Vehicle header and details tabs
 
-Below the tracker, the vehicle header shows the registration and the vehicle description, with an **Edit** dropdown and a **Vehicle details** link.
+Below the tracker, the vehicle header shows the registration and the vehicle description, with an **Edit** dropdown and a **Vehicle details** link. It also shows a **Condition** chip with the vehicle's overall grade. The grade is set by the inspector from the app report, and you can also change it here by tapping the pencil icon on the chip. See [Condition grade and repair estimate](../../retailer-app/inspection/14-condition-grading-and-repair-estimate.md).
 
 Three tabs follow: **INSPECTION DETAILS**, **VEHICLE DETAILS** and **CUSTOMER DETAILS**. The Inspection details tab shows the **Quote ID**, **Date & Time**, **Customer Name** and **Created by**.
 
@@ -53,6 +53,14 @@ The **Inspection Images** section has **Location** and **Uploads** buttons and t
 {% hint style="info" %}
 Automatic damage detection applies to exterior images. Interior images are shown for review, and any interior damage is added manually.
 {% endhint %}
+
+Switch to the **Interior** tab to review interior images. The interior panel diagram appears below them.
+
+![](../../.gitbook/assets/WD08-11.png)
+
+<!-- WD08-11 -->
+
+_The Interior tab: interior images with the interior panel diagram below._
 
 ## Panel overview
 
