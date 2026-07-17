@@ -16,13 +16,12 @@ The app opens the report automatically at sign-off. It shows:
 
 ## On the web dashboard
 
-1. Go to https://jlr-uat.web.app on a desktop browser.
+1. Go to [https://jlr-uat.web.app](https://jlr-uat.web.app/) on a desktop browser.
 2. Sign in with your inspection credentials.
 3. Click the **Search** icon in the left pane.
-4. Find the inspection by registration.
+4.  Find the inspection by registration.
 
-   ![](../../.gitbook/assets/WD07-1.png)
-
+    ![](../../.gitbook/assets/WD07-1.png)
 5. Click it to open the report.
 
 ![](../../.gitbook/assets/WD08-1.png)

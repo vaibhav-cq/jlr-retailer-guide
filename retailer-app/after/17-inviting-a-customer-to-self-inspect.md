@@ -12,7 +12,7 @@ Customer invites are sent from the web dashboard, not from the Retailer app. For
 
 ## Send an invite
 
-1. Go to https://jlr-uat.web.app on a desktop browser and sign in.
+1. Go to [https://jlr-uat.web.app](https://jlr-uat.web.app/) on a desktop browser and sign in.
 2. Open **Invite (Customer Inspection)** in the sidebar.
 3. If you manage more than one retailer, choose it from the **Select Dealer** dropdown.
 4. Enter the customer's **first name** and **email** (required). Last name and phone are optional.

@@ -13,11 +13,7 @@ Sign in with the User ID and password your administrator registered for you.
 3. Enter your **password**.
 4. Tap **Login**.
 
-<img src="../../.gitbook/assets/demo-r01.png" width="250" />
-
-{% hint style="info" %}
-Signing in for the first time? You may be asked to set a password. Follow the prompts, then continue.
-{% endhint %}
+<img src="../../.gitbook/assets/demo-r01.png" alt="" width="250">
 
 {% hint style="info" %}
 If your User ID or password is wrong, the app keeps you on the login screen. Re-enter them carefully.
@@ -29,7 +25,7 @@ If your User ID or password is wrong, the app keeps you on the login screen. Re-
 2. Enter the email address registered with your account.
 3. A password reset link is sent to that email address. Follow it to set a new password.
 
-<img src="../../.gitbook/assets/RA03-3.png" width="250" />
+<img src="../../.gitbook/assets/RA03-3.png" alt="" width="250">
 
 ## Accepting the Terms & Conditions
 
@@ -40,7 +36,7 @@ The first time you sign in, the **ClearQuote End User Terms & Conditions** pop-u
 
 You can view the Terms & Conditions again at any time after login from the sidebar menu.
 
-<img src="../../.gitbook/assets/demo-r02.png" width="250" />
+<img src="../../.gitbook/assets/demo-r02.png" alt="" width="250">
 
 ## Changing the language
 

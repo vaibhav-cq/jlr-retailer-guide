@@ -14,10 +14,6 @@ The **Overview** screen shows the damage status of each section of the vehicle. 
 
 The top bar also has a **Faults List** toggle and a **?** help icon, and **Done** on the right.
 
-![](../../.gitbook/assets/demo-r42.png)
-
-_The overview legend (Clean, Existing Damages, Unrecognized) with the Faults List toggle in the top bar._
-
 {% hint style="info" %}
 Automatic damage detection applies to exterior images. For interior images, review the captured photos and add any damage manually.
 {% endhint %}
