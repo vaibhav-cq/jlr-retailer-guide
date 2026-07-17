@@ -9,7 +9,7 @@ After the checklist comes damage review - the app calls this **Damage Confirmati
 The **Overview** screen shows the damage status of each section of the vehicle. Tabs switch between **Exterior**, **Tyre** and **Interior**. The legend reads:
 
 * **Clean:** no damage.
-* **Damages:** damage present. If vehicle comparison is enabled for your retailer, this label reads **Existing Damages** instead.
+* **Damages:** damage present.
 * **Unrecognized:** not recognised.
 
 The top bar also has a **Faults List** toggle and a **?** help icon, and **Done** on the right.
