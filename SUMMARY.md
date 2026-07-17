@@ -17,9 +17,9 @@
 * [Capturing interior images](retailer-app/inspection/08-capturing-interior-images.md)
 * [Capturing the instrument cluster](retailer-app/inspection/09-capturing-the-instrument-cluster.md)
 * [Keys, charging cable and other checks](retailer-app/inspection/10-keys-charging-cable-and-other-captures.md)
-* [Tyre inspection](retailer-app/inspection/11-tyre-inspection.md)
-* [Completing the checklist](retailer-app/inspection/12-completing-the-checklist.md)
-* [Reviewing damage](retailer-app/inspection/13-reviewing-damage.md)
+* [Completing the checklist](retailer-app/inspection/11-completing-the-checklist.md)
+* [Reviewing damage](retailer-app/inspection/12-reviewing-damage.md)
+* [Tyre inspection](retailer-app/inspection/13-tyre-inspection.md)
 * [Condition grade and repair estimate](retailer-app/inspection/14-condition-grading-and-repair-estimate.md)
 * [Completing and signing off](retailer-app/inspection/15-completing-and-signing-off.md)
 

@@ -32,7 +32,7 @@ This glossary explains the terms used across the ClearInspect Retailer app and w
 
 **Checklist** The set of questions completed during an inspection. Some answers are pre-filled from detected values.
 
-**Damage / damage review (Damage Confirmation)** The stage where you review the damage the app has detected, and add, edit or confirm it. The overview legend marks each section as Clean, Damages (or Existing Damages when vehicle comparison is enabled) or Unrecognized; the tyre view uses Clean, Mismatch/Damages and Not available.
+**Damage / damage review (Damage Confirmation)** The stage where you review the damage the app has detected, and add, edit or confirm it. The overview legend marks each section as Clean, Damages or Unrecognized; the tyre view uses Clean, Mismatch/Damages and Not available.
 
 **Repair method** How a damage will be fixed: Repair, Repaint, Smart Repair, Polish or Replace.
 
@@ -40,9 +40,7 @@ This glossary explains the terms used across the ClearInspect Retailer app and w
 
 **Repair estimate** The estimated cost of repairs, based on confirmed damage and the chosen repair methods. Shown in the report if enabled for your retailer.
 
-**Assessment table** The panel-by-panel breakdown of confirmed damage and repair methods in the inspection report. It is separate from the repair estimate table. On repeat inspections of the same licence plate, the Comparison section appears in its place.
-
-**Comparison** A report section shown when a vehicle with the same licence plate is inspected again. It compares the current inspection against the previous one, with filters for New damages, Existing Damage, Repaired, Clear and Unrecognized.
+**Assessment table** The panel-by-panel breakdown of confirmed damage and repair methods in the inspection report. It is separate from the repair estimate table.
 
 **Change log** An audit trail recorded for each report, shown below the checklist section, listing edits with the editor name and timestamp. It is read-only; retention follows your organisation's policy.
 

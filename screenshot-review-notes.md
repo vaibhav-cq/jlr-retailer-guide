@@ -10,17 +10,17 @@ The findings below were reviewed and the following actions applied to the guide 
 
 **Blur** - plate and VIN regions blurred in 8 assets: demo-r03, r46 (home card reg + VIN), r05 (physical plate), r06 (detected plate text), r07 (plate + VIN form fields), r09, r10 (plate on vehicle), r16 (plates in 3 thumbnails).
 
-**Captions added** (suggested wording): RA06-6, RA07-1, RA09-3, RA11-7, RA12-3, RA12-4, RA12-5, RA18-3, plus the honest caption on RA07-3 ("The Manual toggle sits top right - turn it on to capture yourself").
+**Captions added** (suggested wording): RA06-6, RA07-1, RA09-3, RA13-7, RA11-3, RA11-4, RA11-5, RA18-3, plus the honest caption on RA07-3 ("The Manual toggle sits top right - turn it on to capture yourself").
 
 **Reworded** - RA09-2: cluster capture has no real-time detection, so "wait for green" was removed from the steps; new step says to hold steady with the cluster inside the frame, with a matching caption.
 
-**Removed** - RA11-2 (duplicate of RA11-1), RA11-8 (implied a tyre sign-off the text denies), RA12-2 (duplicate of RA12-1), RA12-6 and RA12-7 (triple-repeat of RA12-5's asset), RA13-6 (third near-identical overview shot). The RA11-2 legend section now points to the image above; demo-r36 is unplaced and kept as a spare.
+**Removed** - RA13-2 (duplicate of RA13-1), RA13-8 (implied a tyre sign-off the text denies), RA11-2 (duplicate of RA11-1), RA11-6 and RA11-7 (triple-repeat of RA11-5's asset), RA12-6 (third near-identical overview shot). The RA13-2 legend section now points to the image above; demo-r36 is unplaced and kept as a spare.
 
-**Text fix** - RA13-9 step 2 now lists the menu as it appears: Image, Damage, and (once a damage is selected) Closeup, Notes, Method.
+**Text fix** - RA12-9 step 2 now lists the menu as it appears: Image, Damage, and (once a damage is selected) Closeup, Notes, Method.
 
-**Deferred** - RA13-2 left in place; a note about the Damages vs Existing Damages build inconsistency was added to screenshots.md, whose location table and reuse list were also updated to reflect the removals and blurs.
+**Deferred** - RA12-2 left in place; a note about the Damages vs Existing Damages build inconsistency was added to screenshots.md, whose location table and reuse list were also updated to reflect the removals and blurs.
 
-After these edits: 48 embedded instances remain; open items are the RA13-2 build alignment and the pending captures (RA07-3's toggle-on shot is still worth capturing).
+After these edits: 48 embedded instances remain; open items are the RA12-2 build alignment and the pending captures (RA07-3's toggle-on shot is still worth capturing).
 
 ---
 
@@ -108,85 +108,85 @@ Verdicts: OK / Add caption / Improve caption / Add context / Mismatch / Redundan
 - RA09-2 - Add caption. Steps say "wait for green", but the frame in the shot is white (pre-capture state), which a reader may find confusing. Suggested caption: `_Line the cluster up inside the frame - it turns green when the cluster is framed clearly._`
 - RA09-3 - Add caption. The section lists three readings (warning lights, odometer, fuel) but the image shows only the Warning lights page. Suggested caption: `_The Warning lights page (1/3) pre-filled from the cluster image - here Handbrake and Seatbelt were detected._`
 
-## retailer-app/inspection/11-tyre-inspection.md
+## retailer-app/inspection/13-tyre-inspection.md
 
 | Slot | Asset | Verdict |
 |---|---|---|
-| RA11-1 | demo-r37.png | OK |
-| RA11-2 | demo-r37.png | Redundant - REMOVED |
-| RA11-4 | demo-r38.jpg | OK |
-| RA11-9 | demo-r39.png | OK |
-| RA11-5 | demo-r41.png | OK |
-| RA11-6 | demo-r40.jpg | OK |
-| RA11-7 | demo-r40.jpg | Add caption - APPLIED |
-| RA11-8 | demo-r44.png | Redundant - REMOVED |
+| RA13-1 | demo-r37.png | OK |
+| RA13-2 | demo-r37.png | Redundant - REMOVED |
+| RA13-4 | demo-r38.jpg | OK |
+| RA13-9 | demo-r39.png | OK |
+| RA13-5 | demo-r41.png | OK |
+| RA13-6 | demo-r40.jpg | OK |
+| RA13-7 | demo-r40.jpg | Add caption - APPLIED |
+| RA13-8 | demo-r44.png | Redundant - REMOVED |
 
-- RA11-1 - steps name the Overview - Wheels & Tyres screen; the wheel graphic and statuses are visible.
-- RA11-2 - Redundant. Identical asset repeated 12 lines after RA11-1 on the same page. The legend bullets (Clean, Mismatch/Damages, Not available, Tyre info incomplete) all describe the first instance perfectly well. Remove this instance and let the legend section refer to the image above.
-- RA11-4 - prose matches the left panel exactly (brand, model, size, load and speed rating, tread values below).
-- RA11-9 - steps match the Edit Tyre Information dialog and its seven dropdowns, plus Confirm. Trivial demo quirk: the list shows Left Rear Tyre but the dialog is titled Left Front Wheel - ignore or recapture at leisure.
-- RA11-5 - Enter Tyre Tread screen with inner/middle/outer values and Save, exactly as the steps describe.
-- RA11-6 - tyre and alloy damage markers (EI) visible; section text covers it.
-- RA11-7 - Add caption. Same asset as RA11-6, reused 9 lines later. The step says "Tick the Replace Tyre checkbox" but in the shot the checkbox is untitcked and easy to miss at bottom left. Suggested caption: `_The Replace Tyre checkbox (bottom left). Tick it to add the tyre to the repair estimate._` If you would rather not reuse the asset twice on one page, capture the ticked state (RA11-7 is in the capture list as REQUIRED).
-- RA11-8 - Redundant. The section explicitly says there is NO separate tyre sign-off and points to page 15, then shows the sign-off dialog anyway (third use of demo-r44 in the guide). Showing it here implies the opposite of the text. Remove.
+- RA13-1 - steps name the Overview - Wheels & Tyres screen; the wheel graphic and statuses are visible.
+- RA13-2 - Redundant. Identical asset repeated 12 lines after RA13-1 on the same page. The legend bullets (Clean, Mismatch/Damages, Not available, Tyre info incomplete) all describe the first instance perfectly well. Remove this instance and let the legend section refer to the image above.
+- RA13-4 - prose matches the left panel exactly (brand, model, size, load and speed rating, tread values below).
+- RA13-9 - steps match the Edit Tyre Information dialog and its seven dropdowns, plus Confirm. Trivial demo quirk: the list shows Left Rear Tyre but the dialog is titled Left Front Wheel - ignore or recapture at leisure.
+- RA13-5 - Enter Tyre Tread screen with inner/middle/outer values and Save, exactly as the steps describe.
+- RA13-6 - tyre and alloy damage markers (EI) visible; section text covers it.
+- RA13-7 - Add caption. Same asset as RA13-6, reused 9 lines later. The step says "Tick the Replace Tyre checkbox" but in the shot the checkbox is untitcked and easy to miss at bottom left. Suggested caption: `_The Replace Tyre checkbox (bottom left). Tick it to add the tyre to the repair estimate._` If you would rather not reuse the asset twice on one page, capture the ticked state (RA13-7 is in the capture list as REQUIRED).
+- RA13-8 - Redundant. The section explicitly says there is NO separate tyre sign-off and points to page 15, then shows the sign-off dialog anyway (third use of demo-r44 in the guide). Showing it here implies the opposite of the text. Remove.
 
-## retailer-app/inspection/12-completing-the-checklist.md
-
-| Slot | Asset | Verdict |
-|---|---|---|
-| RA12-1 | demo-r17.png | OK |
-| RA12-2 | demo-r17.png | Redundant - REMOVED |
-| RA12-3 | demo-r18.png | Add caption - APPLIED |
-| RA12-4 | demo-r19.png | Add caption - APPLIED |
-| RA12-5 | demo-r20.png | Add caption - APPLIED |
-| RA12-6 | demo-r20.png | Redundant - REMOVED |
-| RA12-7 | demo-r20.png | Redundant - REMOVED |
-| RA12-8 | demo-r21.png | OK |
-
-- RA12-1 - fine as the opening shot ("It opens with the cluster readings"); Next visible top right.
-- RA12-2 - Redundant. Identical to RA12-1, 10 lines above on the same page. Remove; the bullets can lean on RA12-3/RA12-4 for the remaining pages.
-- RA12-3 - Add caption. Part of an unlabeled three-image stack. Suggested: `_Odometer reading (2/3), pre-filled from the cluster image - edit it if needed._`
-- RA12-4 - Add caption. Suggested: `_Fuel Level % (3/3), chosen from the dropdown._`
-- RA12-5 - Add caption, and make it carry the two neighbours' jobs (see next). Suggested: `_An Other Checks question. The red asterisk marks a mandatory question; the camera icon attaches an image for context._`
-- RA12-6, RA12-7 - Redundant. The same asset appears three times in a row (question, mandatory marker, attach image). One instance with the caption above shows all three things - the asterisk and camera icon are both in the single frame. Remove these two.
-- RA12-8 - matches "On the last page, tap Save (top right)"; shows Other Checks 7/7 with Save.
-
-## retailer-app/inspection/13-reviewing-damage.md
+## retailer-app/inspection/11-completing-the-checklist.md
 
 | Slot | Asset | Verdict |
 |---|---|---|
-| RA13-1 | demo-r22.png | OK |
-| RA13-2 | demo-r42.png | Mismatch - DEFERRED (left in place; build-inconsistency note added to screenshots.md) |
-| RA13-3 | demo-r23.jpg | OK |
-| RA13-15 | demo-r33.jpg | OK |
-| RA13-9 | demo-r25.jpg | Mismatch - FIXED (step 2 text corrected to the menu as shown) |
-| RA13-12 | demo-r26.jpg | OK |
-| RA13-13 | demo-r27.jpg | OK |
-| RA13-4 | demo-r28.jpg | OK |
-| RA13-14 | demo-r32.jpg | OK |
-| RA13-10 | demo-r29.png | OK |
-| RA13-5 | demo-r30.jpg | OK |
-| RA13-11 | demo-r31.jpg | OK |
-| RA13-8 | demo-r34.jpg | OK |
-| RA13-16 | demo-r35.jpg | OK |
-| RA13-6 | demo-r36.png | Redundant - REMOVED (demo-r36 kept in assets as a spare) |
-| RA13-7 | demo-r44.png | OK |
+| RA11-1 | demo-r17.png | OK |
+| RA11-2 | demo-r17.png | Redundant - REMOVED |
+| RA11-3 | demo-r18.png | Add caption - APPLIED |
+| RA11-4 | demo-r19.png | Add caption - APPLIED |
+| RA11-5 | demo-r20.png | Add caption - APPLIED |
+| RA11-6 | demo-r20.png | Redundant - REMOVED |
+| RA11-7 | demo-r20.png | Redundant - REMOVED |
+| RA11-8 | demo-r21.png | OK |
 
-- RA13-1 - reasonable opening shot of the DC overview.
-- RA13-2 - Mismatch (minor but user-visible). The bullet list says the legend reads "Clean / Damages / Unrecognized", and RA13-1's shot agrees, but this image's legend reads "Clean / Existing Damages / Unrecognized" - two different UI versions on one page. Fix one of two ways: align the bullet to the label in this shot (rename the bullet to **Existing Damages**) and drop RA13-1, or recapture RA13-2 from the same build as RA13-1. The caption itself is accurate.
-- RA13-3 - steps name everything in shot: arrows on the right edge, panel dropdown top left, Complete top right, detected damage marker (F).
-- RA13-15 - caption is accurate (two damages, dropdown, Complete) and distinguishes it from RA13-3.
-- RA13-9 - Mismatch. Step 2 says the menu "also offers **Image** and **Repair**", but the menu in the shot reads Image, Damage, Closeup, Notes, Method (last three greyed out). Suggested text edit for step 2: "Choose **Damage** from the menu. (The menu also offers **Image**, and - once a damage is selected - **Closeup**, **Notes** and **Method**.)"
-- RA13-12, RA13-13 - captions accurate for Draw Mode and Zoom Mode; the toggle is visible in both.
-- RA13-4 - drawn ring plus the tick, exactly as step 4 says.
-- RA13-14 - caption accurate: two markers, lettered A and F.
-- RA13-10 - Add Damage dialog fields match step 5 word for word (Select Panel, Select damage, Damage Area Small/Large, Next).
-- RA13-5 - Add Repair Method dialog with Save, as step 6 says.
-- RA13-11 - prompt text in shot matches the quoted question and both buttons.
-- RA13-8 - delete confirmation quote and bin icon match the steps; the damage list on the left illustrates step 1.
-- RA13-16 - caption accurate: panel count drops to (1), marker F gone.
-- RA13-6 - Redundant. Third near-identical overview screenshot on this page (after RA13-1 and RA13-2), and it does not show what the section needs: the steps say "tap a Damages icon to jump to the damaged part", but no jump or opened part is shown - just the same overview again. Remove, or replace with a capture mid-jump. If RA13-1 is dropped per the RA13-2 note, this one could stay as the section's only overview shot with a caption: `_Tap any marker on the overview to jump straight to that section's images._`
-- RA13-7 - dialog text and Sign Off button match the steps exactly.
+- RA11-1 - fine as the opening shot ("It opens with the cluster readings"); Next visible top right.
+- RA11-2 - Redundant. Identical to RA11-1, 10 lines above on the same page. Remove; the bullets can lean on RA11-3/RA11-4 for the remaining pages.
+- RA11-3 - Add caption. Part of an unlabeled three-image stack. Suggested: `_Odometer reading (2/3), pre-filled from the cluster image - edit it if needed._`
+- RA11-4 - Add caption. Suggested: `_Fuel Level % (3/3), chosen from the dropdown._`
+- RA11-5 - Add caption, and make it carry the two neighbours' jobs (see next). Suggested: `_An Other Checks question. The red asterisk marks a mandatory question; the camera icon attaches an image for context._`
+- RA11-6, RA11-7 - Redundant. The same asset appears three times in a row (question, mandatory marker, attach image). One instance with the caption above shows all three things - the asterisk and camera icon are both in the single frame. Remove these two.
+- RA11-8 - matches "On the last page, tap Save (top right)"; shows Other Checks 7/7 with Save.
+
+## retailer-app/inspection/12-reviewing-damage.md
+
+| Slot | Asset | Verdict |
+|---|---|---|
+| RA12-1 | demo-r22.png | OK |
+| RA12-2 | demo-r42.png | Mismatch - DEFERRED (left in place; build-inconsistency note added to screenshots.md) |
+| RA12-3 | demo-r23.jpg | OK |
+| RA12-15 | demo-r33.jpg | OK |
+| RA12-9 | demo-r25.jpg | Mismatch - FIXED (step 2 text corrected to the menu as shown) |
+| RA12-12 | demo-r26.jpg | OK |
+| RA12-13 | demo-r27.jpg | OK |
+| RA12-4 | demo-r28.jpg | OK |
+| RA12-14 | demo-r32.jpg | OK |
+| RA12-10 | demo-r29.png | OK |
+| RA12-5 | demo-r30.jpg | OK |
+| RA12-11 | demo-r31.jpg | OK |
+| RA12-8 | demo-r34.jpg | OK |
+| RA12-16 | demo-r35.jpg | OK |
+| RA12-6 | demo-r36.png | Redundant - REMOVED (demo-r36 kept in assets as a spare) |
+| RA12-7 | demo-r44.png | OK |
+
+- RA12-1 - reasonable opening shot of the DC overview.
+- RA12-2 - Mismatch (minor but user-visible). The bullet list says the legend reads "Clean / Damages / Unrecognized", and RA12-1's shot agrees, but this image's legend reads "Clean / Existing Damages / Unrecognized" - two different UI versions on one page. Fix one of two ways: align the bullet to the label in this shot (rename the bullet to **Existing Damages**) and drop RA12-1, or recapture RA12-2 from the same build as RA12-1. The caption itself is accurate.
+- RA12-3 - steps name everything in shot: arrows on the right edge, panel dropdown top left, Complete top right, detected damage marker (F).
+- RA12-15 - caption is accurate (two damages, dropdown, Complete) and distinguishes it from RA12-3.
+- RA12-9 - Mismatch. Step 2 says the menu "also offers **Image** and **Repair**", but the menu in the shot reads Image, Damage, Closeup, Notes, Method (last three greyed out). Suggested text edit for step 2: "Choose **Damage** from the menu. (The menu also offers **Image**, and - once a damage is selected - **Closeup**, **Notes** and **Method**.)"
+- RA12-12, RA12-13 - captions accurate for Draw Mode and Zoom Mode; the toggle is visible in both.
+- RA12-4 - drawn ring plus the tick, exactly as step 4 says.
+- RA12-14 - caption accurate: two markers, lettered A and F.
+- RA12-10 - Add Damage dialog fields match step 5 word for word (Select Panel, Select damage, Damage Area Small/Large, Next).
+- RA12-5 - Add Repair Method dialog with Save, as step 6 says.
+- RA12-11 - prompt text in shot matches the quoted question and both buttons.
+- RA12-8 - delete confirmation quote and bin icon match the steps; the damage list on the left illustrates step 1.
+- RA12-16 - caption accurate: panel count drops to (1), marker F gone.
+- RA12-6 - Redundant. Third near-identical overview screenshot on this page (after RA12-1 and RA12-2), and it does not show what the section needs: the steps say "tap a Damages icon to jump to the damaged part", but no jump or opened part is shown - just the same overview again. Remove, or replace with a capture mid-jump. If RA12-1 is dropped per the RA12-2 note, this one could stay as the section's only overview shot with a caption: `_Tap any marker on the overview to jump straight to that section's images._`
+- RA12-7 - dialog text and Sign Off button match the steps exactly.
 
 ## retailer-app/inspection/15-completing-and-signing-off.md
 
@@ -195,7 +195,7 @@ Verdicts: OK / Add caption / Improve caption / Add context / Mismatch / Redundan
 | RA15-1 | demo-r44.png | OK |
 | RA15-3 | demo-r45.png | OK |
 
-- RA15-1 - same asset as RA13-7 on the previous page, but justified: this is the canonical sign-off page and the steps describe exactly this dialog.
+- RA15-1 - same asset as RA12-7 on the previous page, but justified: this is the canonical sign-off page and the steps describe exactly this dialog.
 - RA15-3 - "An Inspection Submitted confirmation appears" sits directly above the matching shot.
 
 ## retailer-app/after/18-working-offline.md
@@ -237,9 +237,9 @@ Not flagged: odometer value in demo-r15/r17/r18 (not personal data), GBP 0 amoun
 
 **Pages where images cluster with little text between**
 
-- retailer-app/inspection/12-completing-the-checklist.md - 8 images in 39 lines, including a three-image unlabeled stack and the same asset three times in a row. Worst offender; the Redundant/Add caption fixes above resolve it.
+- retailer-app/inspection/11-completing-the-checklist.md - 8 images in 39 lines, including a three-image unlabeled stack and the same asset three times in a row. Worst offender; the Redundant/Add caption fixes above resolve it.
 - retailer-app/inspection/07-capturing-exterior-images.md - RA07-5 and RA07-1 sit back to back with no prose between; the suggested RA07-1 caption fixes it.
-- retailer-app/inspection/13-reviewing-damage.md - 16 images in 103 lines, but most sit inside numbered steps with captions; acceptable once the three overview shots are thinned to one or two.
+- retailer-app/inspection/12-reviewing-damage.md - 16 images in 103 lines, but most sit inside numbered steps with captions; acceptable once the three overview shots are thinned to one or two.
 
 **Side finding**
 
@@ -253,7 +253,7 @@ Not flagged: odometer value in demo-r15/r17/r18 (not personal data), GBP 0 amoun
 - retailer-app/getting-started/05-changing-the-language.md: RA05-2
 - retailer-app/inspection/06-start-an-inspection.md: RA06-1, RA06-4
 - retailer-app/inspection/10-keys-charging-cable-and-other-captures.md: RA10-1
-- retailer-app/inspection/11-tyre-inspection.md: RA11-3
+- retailer-app/inspection/13-tyre-inspection.md: RA13-3
 - retailer-app/inspection/14-condition-grading-and-repair-estimate.md: RA14-1
 - retailer-app/inspection/15-completing-and-signing-off.md: RA15-2
 - retailer-app/after/16-viewing-and-sharing-the-report.md: RA16-1, RA16-2, RA16-3, RA16-4
@@ -273,26 +273,26 @@ Not flagged: odometer value in demo-r15/r17/r18 (not personal data), GBP 0 amoun
 |---|---|---|
 | OK | 36 | unchanged |
 | Add caption | 9 | all applied (incl. RA09-2 reword) |
-| Mismatch | 3 | RA13-9 fixed; RA07-3 interim caption, recapture pending; RA13-2 deferred with note |
+| Mismatch | 3 | RA12-9 fixed; RA07-3 interim caption, recapture pending; RA12-2 deferred with note |
 | Redundant | 6 | all removed |
 | Improve caption / Add context | 0 | - |
 
 48 embedded instances remain after the removals.
 
-**Best shape:** 13-reviewing-damage (the add/remove damage flow is fully illustrated, captions accurate), 06-start-an-inspection, 08-capturing-interior-images, 15-completing-and-signing-off - text and images track each other closely.
+**Best shape:** 12-reviewing-damage (the add/remove damage flow is fully illustrated, captions accurate), 06-start-an-inspection, 08-capturing-interior-images, 15-completing-and-signing-off - text and images track each other closely.
 
-**Worst shape:** 12-completing-the-checklist (1 duplicate + 1 triple-repeat of the same asset, unlabeled stack), 11-tyre-inspection (2 redundant instances, 1 misleading), 07-capturing-exterior-images (the Manual-toggle mismatch).
+**Worst shape:** 11-completing-the-checklist (1 duplicate + 1 triple-repeat of the same asset, unlabeled stack), 13-tyre-inspection (2 redundant instances, 1 misleading), 07-capturing-exterior-images (the Manual-toggle mismatch).
 
 **Top edits, in order**
 
 1. ~~Fix the RA07-3 mismatch~~ DONE (interim): honest caption added; capturing the toggle-on state is still the proper fix.
-2. ~~Remove the five clear duplicates~~ DONE: RA12-2, RA12-6, RA12-7, RA11-2, RA11-8 all removed (RA13-6 removed too).
-3. ~~Correct the RA13-9 step text~~ DONE.
-4. Resolve the legend inconsistency on 13-reviewing-damage - DEFERRED by decision; note added to screenshots.md. Still open.
+2. ~~Remove the five clear duplicates~~ DONE: RA11-2, RA11-6, RA11-7, RA13-2, RA13-8 all removed (RA12-6 removed too).
+3. ~~Correct the RA12-9 step text~~ DONE.
+4. Resolve the legend inconsistency on 12-reviewing-damage - DEFERRED by decision; note added to screenshots.md. Still open.
 5. ~~Blur the plate and VIN in the 8 assets~~ DONE and visually verified.
 6. ~~Add the 9 suggested captions~~ DONE (RA09-2 additionally reworded - no real-time detection on the cluster).
 
-**Still open:** RA13-2 build alignment (item 4), RA07-3 toggle-on recapture, and all pending placeholder captures.
+**Still open:** RA12-2 build alignment (item 4), RA07-3 toggle-on recapture, and all pending placeholder captures.
 
 ---
 

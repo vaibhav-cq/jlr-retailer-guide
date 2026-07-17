@@ -47,35 +47,35 @@ To attach one: capture the screen, save it into `.gitbook/assets/`, then in the 
 | RA09-2 | `09-capturing-the-instrument-cluster` › Capture the cluster | Step 3 | ✅ Attached | — | `demo-r15.jpg` |
 | RA09-3 | `09-capturing-the-instrument-cluster` › What the app reads | Intro | ✅ Attached | — | `demo-r17.png` |
 | RA10-1 | `10-keys-charging-cable-and-other-captures` › Answer the item questions | Step 4 | ⬜ Capture | Follow | Retailer app → end of capture → the extra-items step |
-| RA11-1 | `11-tyre-inspection` › Open the Tyre tab | Step 3 | ✅ Attached | — | `demo-r37.png` |
-| RA11-3 | `11-tyre-inspection` › Wheel status legend | Intro | ⬜ Capture | Follow | Retailer app → Tyres section → the 4-tyre match indicator |
-| RA11-4 | `11-tyre-inspection` › Reading and editing tyre information | Intro | ✅ Attached | — | `demo-r38.jpg` |
-| RA11-9 | `11-tyre-inspection` › Reading and editing tyre information | Step 3 | ✅ Attached | — | `demo-r39.png` |
-| RA11-5 | `11-tyre-inspection` › Entering tyre tread depth | Step 4 | ✅ Attached | — | `demo-r41.png` |
-| RA11-10 | `11-tyre-inspection` › Auto tyre scan | Step 2 | ✅ Attached | — | `RA11-10.png` (Enter Tread Manually / Auto-Scan Tread choice screen) |
-| RA11-11 | `11-tyre-inspection` › Auto tyre scan | Step 1 | ✅ Attached | — | `RA11-11.png` (tyre screen, + menu open with Tyre Tread) |
-| RA11-6 | `11-tyre-inspection` › Confirming tyre and alloy damage | Intro | ✅ Attached | — | `demo-r40.jpg` |
-| RA11-7 | `11-tyre-inspection` › Marking a tyre for replacement | Step 2 | ✅ Attached | — | `demo-r40.jpg` |
-| RA12-1 | `12-completing-the-checklist` › — | Intro | ✅ Attached | — | `demo-r17.png` |
-| RA12-3 | `12-completing-the-checklist` › Instrument cluster readings [1/3 - 3/3] | Intro | ✅ Attached | — | `demo-r18.png` |
-| RA12-4 | `12-completing-the-checklist` › Instrument cluster readings [1/3 - 3/3] | Intro | ✅ Attached | — | `demo-r19.png` |
-| RA12-5 | `12-completing-the-checklist` › Other Checks [1/7 - 7/7] | Step 3 | ✅ Attached | — | `demo-r20.png` |
-| RA12-8 | `12-completing-the-checklist` › Save the checklist | Intro | ✅ Attached | — | `demo-r21.png` |
-| RA13-1 | `13-reviewing-damage` › — | Intro | ✅ Attached | — | `demo-r22.png` |
-| RA13-2 | `13-reviewing-damage` › The overview screen | Intro | ✅ Attached | — | `demo-r42.png` |
-| RA13-3 | `13-reviewing-damage` › Review a section | Step 4 | ✅ Attached | — | `demo-r23.jpg` |
-| RA13-15 | `13-reviewing-damage` › Review a section | Step 4 | ✅ Attached | — | `demo-r33.jpg` |
-| RA13-9 | `13-reviewing-damage` › Add a damage manually | Step 2 | ✅ Attached | — | `demo-r25.jpg` |
-| RA13-12 | `13-reviewing-damage` › Add a damage manually | Step 3 | ✅ Attached | — | `demo-r26.jpg` |
-| RA13-13 | `13-reviewing-damage` › Add a damage manually | Step 3 | ✅ Attached | — | `demo-r27.jpg` |
-| RA13-4 | `13-reviewing-damage` › Add a damage manually | Step 4 | ✅ Attached | — | `demo-r28.jpg` |
-| RA13-14 | `13-reviewing-damage` › Add a damage manually | Step 4 | ✅ Attached | — | `demo-r32.jpg` |
-| RA13-10 | `13-reviewing-damage` › Add a damage manually | Step 5 | ✅ Attached | — | `demo-r29.png` |
-| RA13-5 | `13-reviewing-damage` › Add a damage manually | Step 6 | ✅ Attached | — | `demo-r30.jpg` |
-| RA13-11 | `13-reviewing-damage` › Add a damage manually | Step 7 | ✅ Attached | — | `demo-r31.jpg` |
-| RA13-8 | `13-reviewing-damage` › Remove a damage | Step 3 | ✅ Attached | — | `demo-r34.jpg` |
-| RA13-16 | `13-reviewing-damage` › Remove a damage | Step 3 | ✅ Attached | — | `demo-r35.jpg` |
-| RA13-7 | `13-reviewing-damage` › Finishing the review | Step 3 | ✅ Attached | — | `demo-r44.png` |
+| RA13-1 | `13-tyre-inspection` › Open the Tyre tab | Step 3 | ✅ Attached | — | `demo-r37.png` |
+| RA13-3 | `13-tyre-inspection` › Wheel status legend | Intro | ⬜ Capture | Follow | Retailer app → Tyres section → the 4-tyre match indicator |
+| RA13-4 | `13-tyre-inspection` › Reading and editing tyre information | Intro | ✅ Attached | — | `demo-r38.jpg` |
+| RA13-9 | `13-tyre-inspection` › Reading and editing tyre information | Step 3 | ✅ Attached | — | `demo-r39.png` |
+| RA13-5 | `13-tyre-inspection` › Entering tyre tread depth | Step 4 | ✅ Attached | — | `demo-r41.png` |
+| RA11-10 | `13-tyre-inspection` › Auto tyre scan | Step 2 | ✅ Attached | — | `RA11-10.png` (Enter Tread Manually / Auto-Scan Tread choice screen) |
+| RA11-11 | `13-tyre-inspection` › Auto tyre scan | Step 1 | ✅ Attached | — | `RA11-11.png` (tyre screen, + menu open with Tyre Tread) |
+| RA13-6 | `13-tyre-inspection` › Confirming tyre and alloy damage | Intro | ✅ Attached | — | `demo-r40.jpg` |
+| RA13-7 | `13-tyre-inspection` › Marking a tyre for replacement | Step 2 | ✅ Attached | — | `demo-r40.jpg` |
+| RA11-1 | `11-completing-the-checklist` › — | Intro | ✅ Attached | — | `demo-r17.png` |
+| RA11-3 | `11-completing-the-checklist` › Instrument cluster readings [1/3 - 3/3] | Intro | ✅ Attached | — | `demo-r18.png` |
+| RA11-4 | `11-completing-the-checklist` › Instrument cluster readings [1/3 - 3/3] | Intro | ✅ Attached | — | `demo-r19.png` |
+| RA11-5 | `11-completing-the-checklist` › Other Checks [1/7 - 7/7] | Step 3 | ✅ Attached | — | `demo-r20.png` |
+| RA11-8 | `11-completing-the-checklist` › Save the checklist | Intro | ✅ Attached | — | `demo-r21.png` |
+| RA12-1 | `12-reviewing-damage` › — | Intro | ✅ Attached | — | `demo-r22.png` |
+| RA12-2 | `12-reviewing-damage` › The overview screen | Intro | ✅ Attached | — | `demo-r42.png` |
+| RA12-3 | `12-reviewing-damage` › Review a section | Step 4 | ✅ Attached | — | `demo-r23.jpg` |
+| RA12-15 | `12-reviewing-damage` › Review a section | Step 4 | ✅ Attached | — | `demo-r33.jpg` |
+| RA12-9 | `12-reviewing-damage` › Add a damage manually | Step 2 | ✅ Attached | — | `demo-r25.jpg` |
+| RA12-12 | `12-reviewing-damage` › Add a damage manually | Step 3 | ✅ Attached | — | `demo-r26.jpg` |
+| RA12-13 | `12-reviewing-damage` › Add a damage manually | Step 3 | ✅ Attached | — | `demo-r27.jpg` |
+| RA12-4 | `12-reviewing-damage` › Add a damage manually | Step 4 | ✅ Attached | — | `demo-r28.jpg` |
+| RA12-14 | `12-reviewing-damage` › Add a damage manually | Step 4 | ✅ Attached | — | `demo-r32.jpg` |
+| RA12-10 | `12-reviewing-damage` › Add a damage manually | Step 5 | ✅ Attached | — | `demo-r29.png` |
+| RA12-5 | `12-reviewing-damage` › Add a damage manually | Step 6 | ✅ Attached | — | `demo-r30.jpg` |
+| RA12-11 | `12-reviewing-damage` › Add a damage manually | Step 7 | ✅ Attached | — | `demo-r31.jpg` |
+| RA12-8 | `12-reviewing-damage` › Remove a damage | Step 3 | ✅ Attached | — | `demo-r34.jpg` |
+| RA12-16 | `12-reviewing-damage` › Remove a damage | Step 3 | ✅ Attached | — | `demo-r35.jpg` |
+| RA12-7 | `12-reviewing-damage` › Finishing the review | Step 3 | ✅ Attached | — | `demo-r44.png` |
 | RA14-1 | `14-condition-grading-and-repair-estimate` › Repair estimate | Intro | ✅ Attached | — | `WD08-9.png` (reuse WD08-9) |
 | RA14-2 | `14-condition-grading-and-repair-estimate` › Condition grade | Web chip | ✅ Attached | — | `WD08-2.png` (reuse WD08-2 - shows the Condition chip on the web dashboard) |
 | RA14-3 | `14-condition-grading-and-repair-estimate` › Condition grade | Step 1 | ✅ Attached | — | `RA14-3.png` (app report, Select vehicle condition button; reg/Quote ID blurred) |
@@ -161,7 +161,7 @@ RA14-1 = WD08-9 · RA15-2 = RA16-1 · RA16-2 = WD07-1 · RA16-3 = WD08-1 · RA16
 - **Image alt text is intentionally empty** on every embedded image. GitBook shows alt text as a caption, so IDs are stored in a trailing `<!-- ID -->` comment instead. Keep new images the same way.
 
 - **WD08-10** is an extra slot on the *Assessment / Comparison* section of `08-understanding-the-report` not in the original capture list — needs the vehicle-to-vehicle comparison view, or remove the slot if that view is deferred.
-- **RA13-1 / RA13-2 build mismatch:** legend reads *Damages* in RA13-1 (demo-r22) vs *Existing Damages* in RA13-2 (demo-r42); page text says "Damages". Align to one build when recapturing.
+- **RA12-1 / RA12-2 build mismatch:** legend reads *Damages* in RA12-1 (demo-r22) vs *Existing Damages* in RA12-2 (demo-r42); page text says "Damages". Align to one build when recapturing.
 - **Blurred plates/VINs:** demo-r03, r05, r06, r07, r09, r10, r16, r46.
 - **Legacy folder removed:** the old top-level `assets/` staging folder (a duplicate of `.gitbook/assets/`, unused by any page) was deleted. The one asset unique to it, the unplaced spare `demo-r36.png`, went with it — it still exists in the original source zip if ever needed.
 
