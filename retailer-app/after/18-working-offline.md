@@ -66,7 +66,7 @@ Once the upload finishes, the inspection moves to **Review Due**.
 
 _After upload the inspection moves from Upload Due to Review Due._
 
-Tap the **Review Due** card. The app shows **Analysis in progress**, then opens the **Damage Confirmation** screen so you can review the detected damage and sign off ([Reviewing damage](../inspection/13-reviewing-damage.md)).
+Tap the **Review Due** card. The app shows **Analysis in progress**, then opens the **Damage Confirmation** screen so you can review the detected damage and sign off ([Reviewing damage](../inspection/12-reviewing-damage.md)).
 
 ![](../../.gitbook/assets/RA18-10.png)
 

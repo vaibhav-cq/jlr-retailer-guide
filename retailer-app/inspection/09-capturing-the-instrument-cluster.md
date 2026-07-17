@@ -26,7 +26,7 @@ _Line the cluster up inside the frame, then capture the image._
 * **Mileage / odometer** reading
 * **Fuel level or charge** - on some setups
 
-After capture, these values pre-fill the **Instrument cluster readings** pages at the start of the checklist ([Completing the checklist](12-completing-the-checklist.md)), where you can edit them if needed.
+After capture, these values pre-fill the **Instrument cluster readings** pages at the start of the checklist ([Completing the checklist](11-completing-the-checklist.md)), where you can edit them if needed.
 
 ![](../../.gitbook/assets/demo-r17.png)
 

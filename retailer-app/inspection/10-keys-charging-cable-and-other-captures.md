@@ -6,7 +6,7 @@ Some checklist questions ask about individual items, such as a key, a charger or
 
 ### Answer and photograph an item
 
-1. Complete image capture and open the checklist ([Completing the checklist](12-completing-the-checklist.md)).
+1. Complete image capture and open the checklist ([Completing the checklist](11-completing-the-checklist.md)).
 2. Work through the condition questions. Some ask about specific items, for example the keys or a charger.
 3. Tap an option to answer each question.
 4. To evidence an item, tap the attach-image icon and photograph it.

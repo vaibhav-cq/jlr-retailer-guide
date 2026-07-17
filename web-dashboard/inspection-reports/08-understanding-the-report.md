@@ -68,20 +68,18 @@ Below the images, chips filter the panel view: **Overview**, **Heatmap**, **Fron
 
 ### Tyre information
 
-Tyre details live in the **Tyre** tab of this overview section, just above the assessment/comparison section. For each wheel it shows:
+Tyre details live in the **Tyre** tab of this overview section, just above the assessment section. For each wheel it shows:
 
 * Tyre brand and size.
 * Tread depth readings.
 * Any tyre or alloy damage confirmed during the inspection.
 * Replacement recommendation.
 
-## Assessment / Comparison
+## Assessment
 
 A table lists each damaged panel, the damage type, and the repair method assigned.
 
 ![](../../.gitbook/assets/WD08-5.png)
-
-When a vehicle with the same licence plate is inspected again, a **Comparison** section appears in place of the assessment section. It compares the **Current Inspection** against the **Previous Inspection** image by image, with filter chips: **New damages**, **Existing Damage**, **Repaired**, **Clear** and **Unrecognized**.
 
 ## Checklist responses
 
