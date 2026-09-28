@@ -2,7 +2,9 @@
 
 Single source of truth for every image slot in the guide. The old inline `[Screenshot: …]` placeholders have been **removed from the pages**, so nothing renders as raw text on the live site. Use this table to see what is attached, what still needs a capture, where each goes, and what to shoot first.
 
-**Status:** 83 attached · 21 to capture (incl. 2 recaptures) · 2 reuse · 1 retired — 106 slots total. _(updated 14 Jul 2026)_
+**Status:** 84 attached · 21 to capture (incl. 2 recaptures) · 2 reuse · 1 retired — 107 slots total. _(updated 28 Sep 2026)_
+
+_28 Sep 2026: added OTP login to the Retailer app (page 03 split into Step 1 / Step 2, FAQ entry on page 21, glossary OTP entry now covers the app). New slot RA03-4 for the OTP entry screen, attached (code entered, Verify OTP active, User ID blurred)._
 
 _14 Jul 2026: added the offline-flow captures RA18-4 to RA18-10 (all attached); retired RA18-1 (superseded by RA18-7); removed RA04-2, as the "Resume an inspection" section was deleted (that feature is not available - the offline Upload Due to Review Due flow is the closest equivalent)._
 
@@ -22,7 +24,8 @@ To attach one: capture the screen, save it into `.gitbook/assets/`, then in the 
 | RA01-1 | `01-about-clearinspect` › What you can do | Intro | ✅ Attached | — | `demo-r46.png` |
 | RA02-1 | `02-installing-the-app` › Install ClearInspect | Step 5 | ✅ Attached | — | `RA02-1.png` |
 | RA02-2 | `02-installing-the-app` › Open the app | Step 2 | ⬜ Capture | Follow | Device home screen showing the ClearInspect icon |
-| RA03-1 | `03-signing-in` › Sign in | Step 4 | ✅ Attached | — | `demo-r01.png` |
+| RA03-1 | `03-signing-in` › Step 1: User ID and password | Step 4 | ✅ Attached | — | `demo-r01.png` |
+| RA03-4 | `03-signing-in` › Step 2: Enter the OTP | Step 3 | ✅ Attached | — | `RA03-4.png` (User ID blurred) |
 | RA03-3 | `03-signing-in` › Forgot your password? | Step 3 | ✅ Attached | — | `RA03-3.png` |
 | RA03-2 | `03-signing-in` › Accepting the Terms & Conditions | Step 2 | ✅ Attached | — | `demo-r02.png` |
 | RA04-1 | `04-the-home-screen` › — | Intro | ✅ Attached | — | `demo-r03.png` |
