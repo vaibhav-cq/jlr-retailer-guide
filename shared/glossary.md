@@ -12,7 +12,7 @@ This glossary explains the terms used across the ClearInspect Retailer app and w
 
 **Invite** A secure link sent by a retailer to a customer, giving them access to begin their self-appraisal. Invites usually expire after 48 hours; the exact validity depends on your retailer setup.
 
-**OTP (one-time passcode)** A short numeric code sent to your email to confirm your identity when signing in to the web dashboard.
+**OTP (one-time passcode)** A short numeric code sent to your email to confirm your identity when signing in to the Retailer app or the web dashboard.
 
 **Terms & Conditions** The terms you accept in a pop-up the first time you sign in to the Retailer app or the web dashboard.
 
