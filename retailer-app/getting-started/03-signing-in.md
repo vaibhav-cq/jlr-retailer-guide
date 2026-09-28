@@ -1,12 +1,13 @@
 # Signing in
 
-Sign in with the User ID and password your administrator registered for you.
+Sign in with the User ID and password your administrator registered for you, then confirm a one-time passcode (OTP) sent to your email.
 
 ## Before you start
 
 * Use the User ID your administrator registered for you. Your User ID may be the same as your email address, but it can also be different.
+* The OTP is sent to the email address provided when your account was created. Have that inbox to hand on your phone or computer.
 
-## Sign in
+## Step 1: User ID and password
 
 1. Open the ClearInspect app.
 2. Enter your **User ID**.
@@ -18,6 +19,20 @@ Sign in with the User ID and password your administrator registered for you.
 {% hint style="info" %}
 If your User ID or password is wrong, the app keeps you on the login screen. Re-enter them carefully.
 {% endhint %}
+
+## Step 2: Enter the OTP
+
+If your User ID and password are correct, the **Enter OTP** pop-up opens and a one-time passcode is sent to your email.
+
+1. Open your email and find the numeric OTP from ClearInspect. It is sent to the email address provided when your account was created, which may be different from your User ID.
+2. Enter the code in the **OTP** field (numbers only).
+3. Tap **Verify OTP**. The button becomes active once you have entered the code.
+
+<img src="../../.gitbook/assets/RA03-4.png" alt="" width="250">
+
+* **No code, or expired?** Tap **Resend OTP**, then check your inbox and spam folder. Resend becomes available after a short countdown (about a minute), shown under the **Verify OTP** button.
+* **Wrong code?** Re-enter it carefully.
+* **Not sure which email the code went to?** Ask your administrator which email address is registered on your account.
 
 ## Forgot your password?
 
