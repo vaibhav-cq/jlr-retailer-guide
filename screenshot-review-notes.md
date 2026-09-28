@@ -4,6 +4,10 @@ Internal reference only - intentionally not listed in SUMMARY.md, so GitBook doe
 
 Scope: every embedded demo image (54 instances, 44 unique assets) checked against its section heading, nearby prose/steps and caption. Placeholders noted separately.
 
+## Edits applied - 28 Sep 2026
+
+**Added** - RA03-4 (`RA03-4.png`, Enter OTP pop-up with code entered and Verify OTP active; User ID blurred) in the new "Step 2: Enter the OTP" section of 03-signing-in. Page text updated to match the on-screen labels (Enter OTP, Verify OTP, Resend OTP countdown).
+
 ## Edits applied - 6 Jul 2026
 
 The findings below were reviewed and the following actions applied to the guide (delivered as `clearinspect-retailer-guide-updated.zip`). The original review text is kept unchanged for reference.
@@ -41,9 +45,11 @@ Verdicts: OK / Add caption / Improve caption / Add context / Mismatch / Redundan
 | Slot | Asset | Verdict |
 |---|---|---|
 | RA03-1 | demo-r01.png | OK |
+| RA03-4 | RA03-4.png | OK |
 | RA03-2 | demo-r02.png | OK |
 
 - RA03-1 - no caption, but the numbered steps directly above name every element shown (User ID, password, Login). Forgot Password? is visible and covered later on the page.
+- RA03-4 - no caption; steps name the pop-up, field and both buttons exactly as shown. Added after the original review.
 - RA03-2 - no caption; steps name the tick text and both buttons exactly as shown. Minor: the background screen reads "My Inspections" while page 04 calls the home list "Today's Inspections" - cosmetic, no action needed.
 
 ## retailer-app/getting-started/04-the-home-screen.md
