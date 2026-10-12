@@ -34,7 +34,7 @@ If your email and password are correct, you are asked for a one-time passcode.
 The first time you sign in, a pop-up asks you to accept the Terms & Conditions before you can continue.
 
 {% hint style="info" %}
-If you see an error after signing in, check that your administrator has added you to ClearInspect. Contact your retailer admin or the ClearInspect support team at vaibhav@clearquote.io if the issue persists.
+If you see an error after signing in, check that your administrator has added you to ClearInspect. Contact your retailer admin or the ClearInspect support team at jlrsupport@clearquote.io if the issue persists.
 {% endhint %}
 
 ## Signing out
