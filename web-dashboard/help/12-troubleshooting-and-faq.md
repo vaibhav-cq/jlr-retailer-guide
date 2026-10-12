@@ -4,7 +4,7 @@
 
 * Sign in with the email address your administrator registered for you, then enter the one-time passcode (OTP) sent to that email. The code is numeric and must be the right length.
 * No OTP? Check your spam folder, wait a moment, then use **Resend** after the cooldown. Confirm your email address is correct.
-* If you see an access error, contact your retailer admin to confirm your account has been provisioned in ClearInspect, or contact the ClearInspect support team at vaibhav@clearquote.io if the issue persists.
+* If you see an access error, contact your retailer admin to confirm your account has been provisioned in ClearInspect, or contact the ClearInspect support team at jlrsupport@clearquote.io if the issue persists.
 
 ## The customer did not receive the invite email
 
@@ -34,4 +34,4 @@ The **JLR API Integration** data is retrieved automatically during the inspectio
 * Inspections where the VIN was not confirmed during the flow.
 * Any lookup where the VIN does not return a result.
 
-If the data is missing for a JLR vehicle, contact the ClearInspect support team at vaibhav@clearquote.io.
+If the data is missing for a JLR vehicle, contact the ClearInspect support team at jlrsupport@clearquote.io
