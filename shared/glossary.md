@@ -58,8 +58,6 @@ This glossary explains the terms used across the ClearInspect Retailer app and w
 
 **Sign-off** Confirming and completing an inspection at the end of the process.
 
-**Inspection Summary** The metric card on the web dashboard home screen showing the total and counts of retailer-conducted inspections by status: Complete, In Progress and Incomplete.
-
 **Draw Mode / Zoom Mode** A toggle in damage review. Zoom Mode zooms in on the image; Draw Mode lets you draw around a damage to mark it.
 
 **Damage Area** The Small or Large size choice made when adding a damage manually.

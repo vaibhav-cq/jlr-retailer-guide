@@ -29,7 +29,7 @@ To attach one: capture the screen, save it into `.gitbook/assets/`, then in the 
 | RA03-3 | `03-signing-in` › Forgot your password? | Step 3 | ✅ Attached | — | `RA03-3.png` |
 | RA03-2 | `03-signing-in` › Accepting the Terms & Conditions | Step 2 | ✅ Attached | — | `demo-r02.png` |
 | RA04-1 | `04-the-home-screen` › — | Intro | ✅ Attached | — | `demo-r03.png` |
-| RA05-2 | `05-changing-the-language` › Change the language | Step 3 | ✅ Attached | — | `RA05-2.png` |
+| RA05-2 | `05-changing-the-language` › Change the language | Step 3 | ✅ Attached | — | `RA05-2.png` (recaptured with BE languages) |
 | RA06-1 | `06-start-an-inspection` › Before you start | Step 3 | ✅ Attached | — | `RA06-1-camera.png` + `RA06-1-location.png` |
 | RA06-2 | `06-start-an-inspection` › Scan the number plate | Step 1 | ✅ Attached | — | `demo-r04.png` |
 | RA06-5 | `06-start-an-inspection` › Scan the number plate | Step 2 | ✅ Attached | — | `demo-r05.jpg` |
@@ -107,12 +107,9 @@ To attach one: capture the screen, save it into `.gitbook/assets/`, then in the 
 | RA20-2 | `20-tips-for-good-captures` › While you capture | Intro | ✅ Attached | — | `demo-r10.jpg` |
 | RA20-3 | `20-tips-for-good-captures` › Before and during | Intro | ✅ Attached | — | `RA06-1-camera.png` (reuse RA06-1) |
 | RA21-1 | `21-troubleshooting-and-faq` › Capturing images | Intro | ⬜ Capture | Follow | Retailer app → capture → Manual toggle state (may reuse RA07-3) |
-| WD01-1 | `01-about-the-web-dashboard` › What you can do | Intro | ✅ Attached | — | `WD03-1-plain.png` (reuse WD03-1, no-box copy) |
 | WD02-1 | `02-signing-in` › Step 1: Email and password | Step 3 | ✅ Attached | — | `WD02-1.png` |
 | WD02-2 | `02-signing-in` › Step 2: Enter the OTP | Step 3 | ✅ Attached | — | `WD02-2.png` |
 | WD02-3 | `02-signing-in` › Signing out | Intro | ✅ Attached | — | `WD02-3.png` |
-| WD03-1 | `03-the-home-screen` › — | Intro | ✅ Attached | — | `WD03-1.png` |
-| WD03-2 | `03-the-home-screen` › Inspection Summary | Intro | ⬜ Capture | Follow | Web dashboard → home → crop of the Inspection Summary card (Total Inspections + date filter) |
 | WD05-1 | `05-creating-an-invite` › Send an invite | Step 8 | ✅ Attached | — | `WD05-1.png` |
 | WD05-2 | `05-creating-an-invite` › Send an invite | Step 8 | ✅ Attached | — | `WD05-2.png` |
 | WD05-3 | `05-creating-an-invite` › What the customer receives | Intro | ⬜ Capture | Follow | The invite email a customer receives (email-client screenshot) |
@@ -148,15 +145,14 @@ Ten captures, ordered by criticality — several also backfill a ♻️ reuse sl
 | 2 | WD08-1 | Full inspection report | RA16-3 |
 | 3 | WD05-1 | Create-invite form | RA17-1 |
 | 4 | WD07-1 | Search / find an inspection | RA16-2 |
-| 5 | WD03-1 | Dashboard home screen | WD01-1 |
-| 6 | RA16-1 | In-app report after sign-off | RA15-2 |
-| 7 | RA06-1 | App camera/location permission prompts | RA20-3 |
-| 8 | WD10-1 | Download PDF | RA16-4 |
-| 9 | WD06-1 | Invite tracking table | RA17-2 |
+| 5 | RA16-1 | In-app report after sign-off | RA15-2 |
+| 6 | RA06-1 | App camera/location permission prompts | RA20-3 |
+| 7 | WD10-1 | Download PDF | RA16-4 |
+| 8 | WD06-1 | Invite tracking table | RA17-2 |
 
 ## Reuse map
 
-RA14-1 = WD08-9 · RA15-2 = RA16-1 · RA16-2 = WD07-1 · RA16-3 = WD08-1 · RA16-4 = WD10-1 · RA17-1 = WD05-1 · RA17-2 = WD06-1 · RA20-3 = RA06-1 · WD01-1 = WD03-1. (RA15-1 and RA20-2 already carry their reused image.)
+RA14-1 = WD08-9 · RA15-2 = RA16-1 · RA16-2 = WD07-1 · RA16-3 = WD08-1 · RA16-4 = WD10-1 · RA17-1 = WD05-1 · RA17-2 = WD06-1 · RA20-3 = RA06-1. (RA15-1 and RA20-2 already carry their reused image.)
 
 ## Notes
 

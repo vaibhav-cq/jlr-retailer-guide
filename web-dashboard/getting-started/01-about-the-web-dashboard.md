@@ -9,8 +9,6 @@ The ClearInspect web dashboard is the browser-based tool for JLR retailer staff.
 * View completed inspection reports in full.
 * Download and share reports as a PDF or by email.
 
-![](../../.gitbook/assets/WD03-1-plain.png)
-
 {% hint style="info" %}
 The web dashboard is for retailer staff only. Customers do not sign in here. They receive an invite by email and complete their appraisal using the Client app.
 {% endhint %}
