@@ -16,6 +16,3 @@ The languages available depend on your setup. Typical examples include English, 
 
 _Choose your language from the list - the app switches straight away._
 
-{% hint style="info" %}
-Checklist text translation is limited. Some checklist text may still appear in English after you change the language.
-{% endhint %}
