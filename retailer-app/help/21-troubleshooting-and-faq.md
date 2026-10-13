@@ -4,7 +4,7 @@ Common questions about the ClearInspect Retailer app.
 
 ## Signing in
 
-**I cannot sign in.** Enter the User ID and password your administrator registered for you, then tap **Login**. If sign-in fails, re-enter them carefully and check your details are correct. If it still fails, contact your administrator, or the ClearInspect support team at vaibhav@clearquote.io
+**I cannot sign in.** Enter the User ID and password your administrator registered for you, then tap **Login**. If sign-in fails, re-enter them carefully and check your details are correct. If it still fails, contact your administrator, or the ClearInspect support team at jlrsupport@clearquote.io
 
 **I did not receive the OTP.** The code is sent to the email address provided when your account was created, which may be different from your User ID. Check your inbox and spam folder, then tap **Resend OTP** once the countdown finishes. If it still does not arrive, ask your administrator to confirm the email address on your account.
 
@@ -27,5 +27,5 @@ Common questions about the ClearInspect Retailer app.
 **The app closed or crashed during an inspection. Can I carry on?** No - an interrupted inspection cannot be resumed. The inspection card stays on the home screen, but you cannot reopen it to carry on from where you left off. If the report is incomplete, start a new inspection for that vehicle.
 
 {% hint style="info" %}
-Some details vary by retailer setup. If a problem continues, contact your administrator or the ClearInspect support team at vaibhav@clearquote.io.
+Some details vary by retailer setup. If a problem continues, contact your administrator or the ClearInspect support team at jlrsupport@clearquote.io
 {% endhint %}
